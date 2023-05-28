@@ -81,3 +81,12 @@ ul li {
     clear: none;
     padding: 0 2.5%;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+i {
+    padding-right: 3px;
+}
