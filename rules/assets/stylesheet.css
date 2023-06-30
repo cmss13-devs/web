@@ -9,8 +9,6 @@ body {
     background: linear-gradient(-45deg, #000000, #141619, #1a1f25, #1c2229);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
-    height: 100vh;
-    width: calc(100% - 100px);
 }
 
 @keyframes gradient {
@@ -33,8 +31,6 @@ body {
     background: #0f0f0f;
     border-top: 2px solid #2b7c85;
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, .4);
-    text-align: center;
-    width: calc(100% - 100px);
 }
 
 .logo {
@@ -56,31 +52,4 @@ hr {
     border: 0;
     background: #fff;
     height: 1px;
-}
-
-#title {
-    width: 33%;
-    margin-left: 33%;
-    margin-bottom: 4.5em;
-}
-
-ul {
-    display: flex;
-    padding: 0 20px;
-}
-
-ul li {
-    width: 33%;
-    display: block;
-    clear: none;
-    padding: 0 2.5%;
-}
-
-footer {
-    position: fixed;
-    bottom: 0;
-}
-
-i {
-    padding-right: 3px;
 }
