@@ -18,10 +18,14 @@ Staff reserve the right to make judgement calls on situations to determine if th
 
 If you are not sure whether something you wish to say or do is okay, AHelp first. We would rather you ask and be told no, than have it happen and a ban become necessary.
 
-| Example | Description |
-| ------- | ----------- |
-| Sexual Acts | • No character should ever engage in any form of sexual intercourse in the game, whether alone or with another player. <br> • No sexual act or genitalia should ever be given explicit description. If a sexual act must be referenced, there should never be a description of how particular body parts made contact or interacted in any way, nor should any particular act be named. <br> • Distasteful but non-sexual bravado do not apply to this. A marine scratching their nuts, for example, is fine.
-| Euphemisms | • Euphemisms that also have a sexual meaning are allowed in non-sexual contexts. Common terms or phrases like "Suck my dick" are fine, as long as saying such is not a literal invitation or solicitation to do so. |
+#### Sexual Acts
+- No character should ever engage in any form of sexual intercourse in the game, whether alone or with another player. 
+- No sexual act or genitalia should ever be given explicit description. If a sexual act must be referenced, there should never be a description of how particular body parts made contact or interacted in any way, nor should any particular act be named.
+    - Distasteful but non-sexual bravado do not apply to this. A marine scratching their nuts, for example, is fine.
+
+
+#### Euphemisms 
+- Euphemisms that also have a sexual meaning are allowed in non-sexual contexts. Common terms or phrases like "Suck my dick" are fine, as long as saying such is not a literal invitation or solicitation to do so.
 
 ## Rule 2: Roleplay
 
@@ -31,16 +35,52 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Human Roleplay Standards
 
-| Standard | Expectation |
-| -------- | ----------- |
-| Dropship Arrests & Riots | Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. |
-| Sanity | All personnel employed by the USCM are mentally stable and physically fit for duty. They would not desert their post or go against the USCM without a good reason. Marriages are forbidden, no two people employed by the USCM on the same ship may be married. The USCM has knowledge of most threats, including all human forces (UPP, CLF, PMC, etc) and general knowledge of the Xenomorph hive structure. The USCM does not know there is a Xenomorph threat on the planet of operation unless that information is given in a custom event. |
-| Deployment | • All personnel deployed should be following their role requirements. A doctor would not deploy to fight Xenos on the front line, a Squad Medic would not only be healing themself, and a Squad Leader would not ignore the orders of command just to do their own thing.<br> • Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and RTO) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. <br> • Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances. <br> • All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. <br> • Shipside Crew, where authorised to deploy, must remain in secure areas. |
-| Ship Modifications | • Deconstruction of the ship should not be occuring before first drop & confirmed contact. The marines would not immediately resort to taking their warship to pieces for a random unconfirmed distress call. <br> • This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance. <br> • Modifications to the ship should not be made with meta-purposes, no building a maze or bunker on the ship intended to help secure the ship for hijack before you even know hijack is a thing. |
-| Synthetics | • Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the Synthetic Programming and Guidelines. <br> • Synthetic Survivors have altered Programming which can also be found there. <br> • Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports. |
-| ID Cards | • These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to. <br> • You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so. <br> • Death or absence of any senior officers is suitable reason to grant yourself needed access to run the operation. <br> • Requisitions missing personnel is a valid reason to give other people or yourself access to Requisitions etc. |
-| Language | Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2 |
-| Aliens & Predators | • Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. They **do not** know there are Xenos on the colony. <br> • Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Spooks" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
+#### Dropship Arrests & Riots 
+
+Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. 
+
+#### Sanity
+
+- All personnel employed by the USCM are mentally stable and physically fit for duty. They would not desert their post or go against the USCM without a good reason. 
+- Marriages are forbidden, no two people employed by the USCM on the same ship may be married. 
+- The USCM has knowledge of most threats, including all human forces (UPP, CLF, PMC, etc) and general knowledge of the Xenomorph hive structure. 
+- The USCM does not know there is a Xenomorph threat on the planet of operation unless that information is given in a custom event.
+
+#### Deployment 
+
+- All personnel deployed should be following their role requirements. A doctor would not deploy to fight Xenos on the front line, a Squad Medic would not only be healing themself, and a Squad Leader would not ignore the orders of command just to do their own thing.
+- Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and RTO) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
+- Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
+- All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
+- Shipside Crew, where authorised to deploy, must remain in secure areas.
+
+#### Ship Modifications 
+
+- Deconstruction of the ship should not be occuring before first drop & confirmed contact. The marines would not immediately resort to taking their warship to pieces for a random unconfirmed distress call. 
+- This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance. 
+- Modifications to the ship should not be made with meta-purposes, no building a maze or bunker on the ship intended to help secure the ship for hijack before you even know hijack is a thing.
+
+#### Synthetics 
+
+- Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the Synthetic Programming and Guidelines. 
+- Synthetic Survivors have altered Programming which can also be found there. 
+- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
+
+#### ID Cards
+
+- These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to. - You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so. 
+- Death or absence of any senior officers is suitable reason to grant yourself needed access to run the operation. 
+- Requisitions missing personnel is a valid reason to give other people or yourself access to Requisitions etc.
+
+#### Language
+
+Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
+
+
+#### Aliens & Predators
+
+- Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. They **do not** know there are Xenos on the colony. 
+- Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Spooks" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
 
 ### Xeno Roleplay Standards
 
@@ -61,7 +101,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 #### Larva
 
-- Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines. <br> • Larva cannot sneak onto dropships to get to the marine ship.
+- Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
 - Larva cannot sneak onto dropships to get to the marine ship.
 - Larva are not recon castes, and should not be seeking out survivors.
 
@@ -72,8 +112,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Predator Roleplay Standards
 
-| Standards | Expectation | 
-| --- | --- |
-| Predators | • Predators are honorable hunters. They must follow the Honor Code and act like a serious predator, not a prankster. <br> • The USCM does not hold any information about these beings, meaning each contact is unknown regarding them. <br> • Predator Honor Code breaches are handled by the Predator Whitelist Council, who can be contacted on Discord or through Player Reports. |
+- Predators are honorable hunters. They must follow the Honor Code and act like a serious predator, not a prankster. 
+- The USCM does not hold any information about these beings, meaning each contact is unknown regarding them. 
+- Predator Honor Code breaches are handled by the Predator Whitelist Council, who can be contacted on Discord or through Player Reports.
 
 
