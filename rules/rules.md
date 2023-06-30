@@ -69,7 +69,7 @@ Causing riots on the dropship over an arrest before first drop will be considere
 
 ### Synthetics 
 
-- Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the Synthetic Programming and Guidelines. 
+- Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the [Synthetic Programming and Guidelines](https://forum.cm-ss13.com/t/synthetic-programming-and-guidelines). 
 - Synthetic Survivors have altered Programming which can also be found there. 
 - Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
 
@@ -119,7 +119,7 @@ Spamming chat (Local or Radio) with non-english characters, symbols or other gib
 
 ## Predator Roleplay Standards
 
-- Predators are honorable hunters. They must follow the Honor Code and act like a serious predator, not a prankster. 
+- Predators are honorable hunters. They must follow the [Honor Code](https://forum.cm-ss13.com/t/predator-honor-code/575) and act like a serious predator, not a prankster. 
 - The USCM does not hold any information about these beings, meaning each contact is unknown regarding them. 
 - Predator Honor Code breaches are handled by the Predator Whitelist Council, who can be contacted on Discord or through Player Reports.
 
