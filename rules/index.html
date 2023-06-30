@@ -1,0 +1,35 @@
+<head>
+    <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+    <meta property="og:title" content="Play CM-SS13">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Join CM-SS13">
+    <meta property="og:image" content="/logo.png">
+    <meta property="og:sitename" content="ss13.cm">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link href="../stylesheet.css" rel="stylesheet">
+    <title>CM-SS13 Status</title>
+</head>
+
+<body>
+    <div class="d-flex flex-column justify-content-center w-100 h-100"></div>
+
+    <div class="pop">
+        <img src="../logo.png" alt="Logo" class="logo" />
+        <h1>CM-SS13 Rules</h1>
+        <div id="markdown">You need JavaScript enabled to view this.</div>
+    </div>
+</body>
+
+<script type="text/javascript">
+    fetch('https://www.cm-ss13.com/rules/rules.md')
+        .then( response => response.text() )
+        .then( (result) => {
+            var content = marked.parse(result)
+            document.getElementById("markdown").innerHTML = content
+        });
+</script>
+
+</html>
