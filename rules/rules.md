@@ -72,6 +72,8 @@
     - [Evacuation Mutinies](#evacuation-mutinies)
 - [Rules Clarification](#rules-clarification)
 
+---
+
 # Rule 0: Admin Authority
 
 Admins and Above retain the authority to ignore or alter the enforcement of specific rules at their discretion should they feel it is in the best interest of the current round, the server or the player base at large. In the absence of an Admin or higher ranking member of staff, Moderators may exercise this power following their own chain of authority. Any use of Rule 0 holds it’s user fully accountable for the actions taken due to their change of the rulings.
