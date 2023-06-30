@@ -39,7 +39,7 @@ body {
     margin: -120px auto 0;
 }
 
-#main-title {
+.main-title {
     margin-top: .25em;
     color: #2b7c85;
 }
