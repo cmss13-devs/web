@@ -125,6 +125,47 @@ Spamming chat (Local or Radio) with non-english characters, symbols or other gib
 
 ---
 
+## Rule 3: Community Expectations
+
+The general behavioural expectations for members of the community. Unless explicitly stated these rules apply to all areas of the community.
+- Don't be a dick.
+- This is not a complete list and only includes the most important elements.
+
+### English Only
+
+- All communications within the server (IC and OOC) should be done in English only. Phrases from other languages are fine but should not make up the majority of your conversations.
+- This extends to the use of Netspeak in-character. You should not be using LOL, WTF,
+
+### Profane RP
+
+Roleplaying hostile actions, beliefs or emotions through the use of profanity is permitted. However staff reserve the right to make calls on situations if a player has crossed the line. If a staff member tells you to stop, you stop.
+
+### Racism and Bigotry
+
+- Usage of slurs IC/OOC on the server will result in a 7 day ban, automatically.
+- Racism, the use of slurs and other targeting terms or phrases is strictly forbidden and will not be tolerated.
+- Being Homophobic, Sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
+- BYOND ckey/usernames that are deemed racist, homophobic, sexist, etc... by staff are not permitted. You will be given a chance to create a new CKEY and you must request our staff to transfer any notes.
+
+### Stereotypes
+
+- Playing a character that is based upon a specific stereotype is permitted however playing to a racial, religious or cultural caricature is not.
+- Management staff, or the highest ranking alternative available, reserve the right to make calls on specific stereotypes being racially, religiously or culturally offensive.
+
+### No Advertising
+
+Don’t post byond://, Discord, Twitch, etc, links to other servers purely for the sake of advertising. If you wish to share links to these kinds of places, either ahelp for permission or do so off the server (IE: over Byond messages or Discord).
+
+### Media Spoilers
+
+Giving out plot spoilers to any media with malicious intent is not allowed, but the general discussion of plot that contains spoilers about media released 1 year ago or longer is fine.
+
+### Spam
+
+Spamming chat ICly or OOCly including LOOC and Deadchat is not allowed. This includes copypastes, macro spam or anything else intentionally producing large amounts of message content or duplicate inputs/logs.
+
+---
+
 ## Rule 4: No griefing
 
 Griefing is the intent of one player wanting to cause grief or annoyance to other players or the server without a valid roleplay reason. If Staff believes that the player’s intent is to grief, then action will be taken whether or not it was the player’s intent. Any damage to the station or players caused by griefing can be repaired at an Admin's discretion. If you are being griefed, don’t retaliate - Adminhelp it and you’ll get healed. Shooting a griefer can cause you to get in trouble as well, and the combat logs you’re generating make it harder for Staff to prove who the real griefer is.
