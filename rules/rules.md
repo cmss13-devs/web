@@ -245,14 +245,14 @@ Metacommunication:
 
 Logging in with different accounts at different times, logging in with another account because you died (or were banned), or logging into two separate accounts at the same time. If you have multiple accounts tied to CM-SS13, please ahelp regarding them. Players caught breaking this rule may receive permabans from the server.
 
-Q: Can I use a VPN?
-A: Yes, the use of VPNs is not forbidden, however you may become captured in other people's bans.
+### Can I use a VPN?
+Yes, the use of VPNs is not forbidden, however you may become captured in other people's bans.
 
-Q: Can other people play at my house?
-A: Yes, but please ahelp beforehand so staff are aware and can make a note of it. Your account is held responsible if someone other than you physically plays on your account and violates any of our rules. "My little brother did it, or my friend did it." are not valid excuses or justification.
+### Can other people play at my house?
+Yes, but please ahelp beforehand so staff are aware and can make a note of it. Your account is held responsible if someone other than you physically plays on your account and violates any of our rules. "My little brother did it, or my friend did it." are not valid excuses or justification.
 
-Q: Can I change my ckey?
-A: You can create a new account at your discretion, but you will need to ahelp ingame with both accounts to transfer your notes and bans. Failure to do this you may result in a ban. Changing your ckey will mean you will not be allowed to use your previous account. Doing so may result in a ban.
+### Can I change my ckey?
+You can create a new account at your discretion, but you will need to ahelp ingame with both accounts to transfer your notes and bans. Failure to do this you may result in a ban. Changing your ckey will mean you will not be allowed to use your previous account. Doing so may result in a ban.
 
 ---
 
