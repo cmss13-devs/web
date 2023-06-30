@@ -91,28 +91,28 @@ Spamming chat (Local or Radio) with non-english characters, symbols or other gib
 
 ### Xeno Roleplay Standards
 
-#### Freedom
+#### **Freedom**
 
 - Aliens have no free will. They are a hivemind, and their purpose is to enforce the will of the Queen and expand the Hive.
 - They are not friendly, and will not negotiate.
 
-#### Language
+#### **Language**
 
 - Xeno hivemind is an English translation of their thoughts, so words such as “hydro” or “shuttle” are acceptable. Referring to in-character mechanics such as "Evolution" and "Plasma" for example, is okay. Gameplay mechanics such as "New Xeno update." should be used in LOOC chat.
 - Spamming "Reeeee" and similar such behaviour in Hivemind or Local Chat is not allowed.
 
-#### Marines
+#### **Marines**
 
 - Due to the Hivemind, xenos know everything every xeno learns and know the basics of human equipment.
 - At the start of the round, the Xenos can sense the human's ship looming above their hive and are aware that human forces will be visiting the colony shortly.
 
-#### Larva
+#### **Larva**
 
 - Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
 - Larva cannot sneak onto dropships to get to the marine ship.
 - Larva are not recon castes, and should not be seeking out survivors.
 
-#### Queen
+#### **Queen**
 
 - The Queen can banish Xenos who fail to uphold these standards and expectations. 
 - Abuse of banish for memes or other reasons that would not be applicable may result in punishment.
