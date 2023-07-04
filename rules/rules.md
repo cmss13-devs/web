@@ -79,6 +79,10 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - Synthetic Survivors have altered Programming which can also be found there. 
 - Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
 
+### Survivors
+
+- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF).
+
 ### ID Cards
 
 - These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to. - You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so. 
