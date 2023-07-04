@@ -23,6 +23,8 @@ Staff reserve the right to make judgement calls on situations to determine if th
 
 If you are not sure whether something you wish to say or do is okay, AHelp first. We would rather you ask and be told no, than have it happen and a ban become necessary.
 
+The below are guidelines for reference, and it is highly recommended not to straddle the line along what is and is not allowed when dealing with erotic/18+ content.
+
 ### Sexual Acts
 - No character should ever engage in any form of sexual intercourse in the game, whether alone or with another player. 
 - No sexual act or genitalia should ever be given explicit description. If a sexual act must be referenced, there should never be a description of how particular body parts made contact or interacted in any way, nor should any particular act be named.
@@ -44,7 +46,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Dropship Arrests & Riots 
 
-Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. 
+- Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. 
 
 ### Sanity
 
@@ -81,12 +83,13 @@ Causing riots on the dropship over an arrest before first drop will be considere
 
 ### Language
 
-Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
+- Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
 
 
 ### Aliens & Predators
 
-- Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. They **do not** know there are Xenos on the colony. 
+- Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. 
+  - They **do not** know there are Xenos on the colony. 
 - Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Spooks" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
 
 ## Xeno Roleplay Standards
@@ -138,7 +141,7 @@ The general behavioural expectations for members of the community. Unless explic
 
 ## Profane RP
 
-Roleplaying hostile actions, beliefs or emotions through the use of profanity is permitted. However staff reserve the right to make calls on situations if a player has crossed the line. If a staff member tells you to stop, you stop.
+- Roleplaying hostile actions, beliefs or emotions through the use of profanity is permitted. However staff reserve the right to make calls on situations if a player has crossed the line. If a staff member tells you to stop, you stop.
 
 ## Racism and Bigotry
 
@@ -154,15 +157,15 @@ Roleplaying hostile actions, beliefs or emotions through the use of profanity is
 
 ## No Advertising
 
-Don’t post byond://, Discord, Twitch, etc, links to other servers purely for the sake of advertising. If you wish to share links to these kinds of places, either ahelp for permission or do so off the server (IE: over Byond messages or Discord).
+- Don’t post byond://, Discord, Twitch, etc, links to other servers purely for the sake of advertising. If you wish to share links to these kinds of places, either ahelp for permission or do so off the server (IE: over Byond messages or Discord).
 
 ## Media Spoilers
 
-Giving out plot spoilers to any media with malicious intent is not allowed, but the general discussion of plot that contains spoilers about media released 1 year ago or longer is fine.
+- Giving out plot spoilers to any media with malicious intent is not allowed, but the general discussion of plot that contains spoilers about media released 1 year ago or longer is fine.
 
 ## Spam
 
-Spamming chat ICly or OOCly including LOOC and Deadchat is not allowed. This includes copypastes, macro spam or anything else intentionally producing large amounts of message content or duplicate inputs/logs.
+- Spamming chat ICly or OOCly including LOOC and Deadchat is not allowed. This includes copypastes, macro spam or anything else intentionally producing large amounts of message content or duplicate inputs/logs.
 
 ---
 
@@ -384,7 +387,7 @@ The following roles are required to follow Marine Law by the server rules. Break
 - Survivor Synthetics are not forced to follow Marine Law, dependent on their chosen alignment (Colony/Survivors/USCM/WY etc.)
 - Marine Law can be broken when necessary to preserve the lives and safety of others.
 
-## Mutinities
+## Mutinies
 
 Mutinies must be Adminhelped by a chosen leader stating the reasoning and the players directly involved. There must be at least 5 members. with MPs not eligible to mutiny.
 
@@ -398,6 +401,10 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
 - Mutinies must have 5 members minimum.
     - Roles bound to follow Marine Law through Mandatory Obedience are unable to mutiny.
         - The USCM Synthetic is not required to aid Command in a Mutiny situation if this would put themselves at high risk, however their choice to help or not is binding, and they are unable to change their mind afterwards.
+
+## Battlefield Executions
+
+- Whitelisted Commanding Officers are allowed to instantly kill any player at any time if the player fulfills the conditions found in Marine Law. Excessive or poorly-reasoned battlefield executions (such as BEing MPs over a valid arrest) may end with the Commanding Officers being removed from the whitelist.
 
 ### Valid Roleplay Reasons
 
