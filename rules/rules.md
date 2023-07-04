@@ -40,7 +40,7 @@ The below are guidelines for reference, and it is highly recommended not to stra
 
 CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copypaste spam IC) are not acceptable. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died or fled the ship in the past. Follow the Roleplay Standards.
 
-Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, massive equipment restrictions and tackling players trying to reach their prep room.), are not tolerated.
+Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room.), are not tolerated.
 
 ## Human Roleplay Standards
 
@@ -51,17 +51,21 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Sanity
 
 - All personnel employed by the USCM are mentally stable and physically fit for duty. They would not desert their post or go against the USCM without a good reason. 
+    - For example, the Mess Technician would not start dicing up bodies in the gibber.
 - Marriages are forbidden, no two people employed by the USCM on the same ship may be married. 
 - The USCM has knowledge of most threats, including all human forces (UPP, CLF, PMC, etc) and general knowledge of the Xenomorph hive structure. 
 - The USCM does not know there is a Xenomorph threat on the planet of operation unless that information is given in a custom event.
 
 ### Deployment 
 
-- All personnel deployed should be following their role requirements. A doctor would not deploy to fight Xenos on the front line, a Squad Medic would not only be healing themself, and a Squad Leader would not ignore the orders of command just to do their own thing.
+- All personnel deployed should be following their role requirements. A Medic would not only be healing themselves, a Specialist is expected to take and use their equipment and a Squad Leader would not ignore the orders of command just to do their own thing.
 - Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and RTO) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
-- Shipside Crew, where authorised to deploy, must remain in secure areas.
+- Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
+  - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
+  - Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
+  - The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
 
 ### Ship Modifications 
 
@@ -427,13 +431,3 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
     - Ship evacuation mutinies do not REQUIRE ahelps, however it is recommended to ahelp before or after to make intentions known to staff.
 - Ship evacuation refusal mutinies must provide at least one chance for the Commander to authorise evacuation, and must use minimum force to succeed.
     - No terminating the entire CIC because the Commander doesn't want to evacuate.
-
----
-
-# Rules Clarification
-
-In most cases, the management team releases rulings on borderline/questionable rule breaks and releases them as rule clarification. These are generally not meant to be read all in one go but should be relied upon to check what isn't or is allowed if you are about to do it.
-
-The wiki & main Colonial Marines discord both contain a repository for these rule clarifications, that allow a player to understand if something borderline (in terms of rules) is allowed or not. So it's recommended:
-- If the main colonial marine discord is easily accessible to you, you frequently check the [#rule-clarification](https://discord.com/channels/150315577943130112/799876013680492544) channel for new & singular historic rulings.
-- You use the wiki page - [Rules Clarification](https://cm-ss13.com/wiki/Rules_Clarification) - for viewing long-standing rulings with quality of life improvements over the standard discord formatting.
