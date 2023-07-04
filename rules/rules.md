@@ -1,6 +1,22 @@
 
 ---
 
+- [Rule 0: Admin Authority](#rule-0-admin-authority)
+- [Rule 1: No Erotic Role Play (ERP), erotic content, or 18+ sexual content](#rule-1-no-erotic-role-play-erp-erotic-content-or-18-sexual-content)
+- [Rule 2: Roleplay](#rule-2-roleplay)
+- [Rule 3: Community Expectations](#rule-3-community-expectations)
+- [Rule 4: No griefing](#rule-4-no-griefing)
+- [Rule 5: Mechanical Exploits](#rule-5-mechanical-exploits)
+- [Rule 6: No Metagaming or Metacommunication](#rule-6-no-metagaming-or-metacommunication)
+- [Rule 7: No Ban Evading / Multi-Keying](#rule-7-no-ban-evading--multi-keying)
+- [Rule 8: Suicide, Rage-Quitting, and Logging off](#rule-8-suicide-rage-quitting-and-logging-off)
+- [Rule 9: Character names](#rule-9-character-names)
+- [Rule 10: Lethal Force](#rule-10-lethal-force)
+- [Rule 11: Marine Law](#rule-11-marine-law)
+- [Rules Clarification](#rules-clarification)
+
+---
+
 # Rule 0: Admin Authority
 
 Admins and Above retain the authority to ignore or alter the enforcement of specific rules at their discretion should they feel it is in the best interest of the current round, the server or the player base at large. In the absence of an Admin or higher ranking member of staff, Moderators may exercise this power following their own chain of authority. Any use of Rule 0 holds it’s user fully accountable for the actions taken due to their change of the rulings.
