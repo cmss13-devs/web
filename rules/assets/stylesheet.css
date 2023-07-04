@@ -33,12 +33,6 @@ body {
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, .4);
 }
 
-.logo {
-    display: block;
-    width: 300px;
-    margin: -120px auto 0;
-}
-
 .main-title {
     margin-top: .25em;
     color: #2b7c85;
