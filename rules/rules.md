@@ -62,10 +62,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and RTO) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
-- Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
-  - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
-  - Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
-  - The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
+- Shipside Crew, where authorised to deploy, must remain in secure areas.
 
 ### Ship Modifications 
 
@@ -82,6 +79,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Survivors
 
 - Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF).
+- Hostile survivors cannot attempt to harm other survivors.
 
 ### ID Cards
 
@@ -92,12 +90,13 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Language
 
 - Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
-
+- Command - both the Marine CIC and the Queen - can send images of the map, from the wiki, webmap or tactical map, with annotations drawn on them, as announcements, if uploaded to a trusted hosting service.
 
 ### Aliens & Predators
 
 - Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. 
   - They **do not** know there are Xenos on the colony. 
+  - They do not know any individual Xeno's prefix or postfix - they can, at most, identify the caste.
 - Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Spooks" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
 
 ## Xeno Roleplay Standards
@@ -116,6 +115,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - Due to the Hivemind, xenos know everything every xeno learns and know the basics of human equipment.
 - At the start of the round, the Xenos can sense the human's ship looming above their hive and are aware that human forces will be visiting the colony shortly.
+- They do not know any individual human's name, but they may know the role they fulfil.
 
 ### Larva
 
@@ -125,8 +125,9 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Queen
 
-- The Queen can banish Xenos who fail to uphold these standards and expectations. 
-- Abuse of banish for memes or other reasons that would not be applicable may result in punishment.
+- The Queen can banish Xenos who fail to uphold these standards and expectations - banish cannot be used as a joke.
+- The Queen cannot use banish for clear mechanical advantage - such as banishing xenos that are in containment, in order to reclaim larva.
+- The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfil this criteria.
 
 ## Predator Roleplay Standards
 
@@ -185,6 +186,7 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 
 - Shooting up medbay at round start.
 - Deliberately OBing the marine frontline.
+- Shooting a marine without their consent, ICly or OOCly, when a xeno attempts to capture them.
 
 ## End of Round Grief (EORG)
 
@@ -196,6 +198,16 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 # Rule 5: Mechanical Exploits
 
 Do not abuse bugs or unintended features to gain an unfair advantage for yourself or your team.
+
+## General Exploits
+
+Not Exploits:
+- Setting up Keybinds or Macros using either the in game Keybind Preferences, or the BYOND Macros menu.
+- Using external software to make a mouse button - like M4 - register as a keyboard key entry, allowing it to be bound in game using the keybind menu.
+
+Exploits:
+- Using autoclickers, rebinding M1 to the scroll wheel, or other macros outside of BYOND.
+- Using scripts to automatically target other players.
 
 ## Marine Exploits
 
@@ -246,6 +258,7 @@ Metagaming:
 
 Not Metacommunication: 
 - Teaching someone how to play the game and various mechanics through Voicechat, LOOC or other external communication methods.
+- Streaming the game with no delay.
 
 Metacommunication: 
 - Telling someone where the enemy are, event details or other In-Character information, that would otherwise be inaccessible, through Voicechat, LOOC or other external communication methods.
@@ -267,11 +280,13 @@ You can create a new account at your discretion, but you will need to ahelp inga
 
 ---
 
-# Rule 8: Suicide, Rage-Quitting, and Logging off
+# Rule 8: Use your Slot
 
-If you are a marine and need to leave the game, go to Cryo on the ship and put yourself in a cryotube. This will release your job slot and allow another player to join with your job. If you are unable to get to cryo, send an Adminhelp to staff. If you are the Queen, Adminhelp to let staff know. If you leave without cryo-ing yourself or informing staff, you risk a job ban, especially if your job is an important one. Suicide is permitted if you have a reasonable roleplay reason why, such as you are infected with a xenomorph and there is no hope of rescue, or you are the last xenomorph alive and there is no queen. Committing suicide without a valid reason will result in a ban and/or jobban.
+You are expected to use your slot, and act appropriately as your role. Every role has a function, and the player taking the role is expected to fulfill it. If you have work to do that your job is expected to do, ignoring it to engage in other tasks violates this rule. Furthermore, wasting your slot - such as by suicide or logging out inappropriately -  is punishable as you are removing a slot another player could be playing as correctly.
 
 ## Ghosting and Logging Out
+
+If you are a marine and need to leave the game, go to Cryo on the ship and put yourself in a cryotube. This will release your job slot and allow another player to join with your job. If you are unable to get to cryo, send an Adminhelp to staff. If you are the Queen, Adminhelp to let staff know. If you leave without cryo-ing yourself or informing staff, you risk a job ban, especially if your job is an important one.
 
 Some roles carry the risk of punishment for logging out or ghosting without notice. This is particularly strict at the start of the round (roughly the first 20 minutes)
 
@@ -298,19 +313,6 @@ These are some example roles that are unlikely to be punished for logging out/gh
 
 - Squad Marine
 - Maintenance Technician
-
-## Suicide
-
-### Mid-Round Suicide
-
-Suicide in the round is to be limited to critical situations. For example:
-- When you have been abandoned on the Colony after Evacuation.
-- When Xenos are confirmed to have hijacked the shuttle and are inbound.
-- When you are infected and have little to no chance of being saved.
-
-### Round-End Suicide
-
-Suicide at the end of the round is usually considered EORG and will land an automatic 3 hour ban.
 
 ---
 
@@ -360,7 +362,8 @@ Do not attack another player without a legitimate, explainable roleplay reason t
 
 - Fists/General melee
 - Knives/Dangerous melee
-- Lethal Weapons
+- Lethal Weapons/Chemicals used as weapons
+  - For example: Inaprovaline Overdoses, Chloral Hydrate, Tramadol/Oxycodone Overdoses
 - If at any point combat is disengaged and both parties leave the area, you cannot skip escalation and plunge back into a fight. What's done is done.
 
 ## Exceptional Circumstances
@@ -369,11 +372,29 @@ Some Exceptional Circumstances exist that give cause to bypass typical escalatio
 - There is one evac pod left and four people are trying to board it. The Hive is closing in on you, in desperation you kill the marine in front of you to take their place.
 - You are on the frontlines, another marine is enraged at you because you took one of his ammo magazines. You're engaged in a furious battle with the approaching hive and the fellow marine is attempting to disarm and tackle you to the ground. With no barricades around you, and no safe area to take cover within, you shoot the marine.
 
+## Hostile Factions
+
+If you are a member of a faction that is hostile to the USMC, you are not held by Lethal Force rules.
+
+This includes:
+- [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
+- [Union of Progressive People](https://cm-ss13.com/wiki/UPP)
+- Other response teams that indicate you are **hostile** when you spawn.
+
 ## Injury & Risk to Life
 
 In cases where there is a serious threat to life, such as being punched to the borders of crit, escalation in the linear sense does not apply. The most important part of escalation is appropriate force, this means that you use an appropriate amount of force to the situation. For example:
 - Being punched twice on full health is not a serious threat to your life. It would not warrant you throwing hell to the wind and blasting away your comrades.
 - Being punched twice after already being critically injured can be seen as a risk to your life, and you can take appropriate action. This is subject to circumstances however and not a greenlight for any situation.
+
+## Jailbreak
+
+Escalation still applies when attempting to remove a marine from the brig after being imprisoned by the Military Police.
+
+For example:
+- You cannot use C4 or lethal explosives in order to break into the brig and release a marine.
+- You can properly escalate fights with MP as outlined previously, however, this will still result in IC sanctions.
+  - MP tools are not considered lethal weaponry. Unless an MP is shooting you, or using a baton on harm intent, you can't respond lethally.
 
 ---
 
