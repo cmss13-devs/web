@@ -78,8 +78,9 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Survivors
 
-- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF).
-- Hostile survivors cannot attempt to harm other survivors.
+- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
+- Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
+  - Hostile survivors cannot attempt to harm other survivors.
 
 ### ID Cards
 
@@ -380,6 +381,8 @@ This includes:
 - [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
 - [Union of Progressive People](https://cm-ss13.com/wiki/UPP)
 - Other response teams that indicate you are **hostile** when you spawn.
+
+However, hostile factions are expected to be consistently hostile to USCM forces, if they are to be hostile at all. You cannot pretend to be friendly - either in behavior, or in dressing in their uniform - and then backstab.
 
 ## Injury & Risk to Life
 
