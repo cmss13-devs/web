@@ -27,6 +27,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+wiki_link: https://cm-ss13.com/wiki
+forums_link: https://forum.cm-ss13.com
+github_link: https://github.com/cmss13-devs/cmss13
+status_link: https://status.cm-ss13.com
+discord_link: https://discord.gg/cmss13
+rules_link: https://www.cm-ss13.com/rules
+
+source_link: https://github.com/cmss13-devs/web
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
