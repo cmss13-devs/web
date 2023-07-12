@@ -27,6 +27,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+play_link: https://www.cm-ss13.com/play
 wiki_link: https://cm-ss13.com/wiki
 forums_link: https://forum.cm-ss13.com
 github_link: https://github.com/cmss13-devs/cmss13
