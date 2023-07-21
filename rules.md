@@ -108,6 +108,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
+- Survivors should not be rushing to attack the hive before the roundstart larvas have had a chance to evolve.
  
 ### Command
 
@@ -161,6 +162,11 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - The Queen can banish Xenos who fail to uphold these standards and expectations - banish cannot be used as a joke.
 - The Queen cannot use banish for clear mechanical advantage - such as banishing xenos that are in containment, in order to reclaim larva.
 - The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfil this criteria.
+
+### Shipside Xenomorphs
+
+- Xenomorphs should not be rushing to get onto the dropship before second drop.
+- While shipside xenomorphs can do almost everything they like once they get shipside they aren't allowed to attack people who just got out of cryo and are getting their gear.
 
 ## Predator Roleplay Standards
 
@@ -275,13 +281,14 @@ Acting upon knowledge your character would not have or providing unknowable info
 Not Metagaming:
 - Xenos destroying colony assets prior to Marine landing, such as APCs, lights, vendors, etc.
 - Xenos & Marines building traps to catch and kill the other side.
+- Shipside xenos attacking critical equipment like the tcomms or OB APCs.
 - Marines killing themselves after becoming infected or captured by the Xenos.
 
 Metagaming: 
 - Wordlessly following a friend around without having any IC communications or interactions.
-- Building defenses on the ship before a hostile force is en route.
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
+- Xenos walling in marine or xeno bodies to prevent them from being recovered.
 - Killing small hosts as survivor before marines land.
     - This is explicitly a rulebreak exclusively due to the extensive impact this has on roundstart balance.
 - Surrounding a comms tower entirely with reinforced walls to prevent Xenos attacking it without T3s.
