@@ -17,11 +17,10 @@ permalink: /rules
 - [Rule 5: Mechanical Exploits](#rule-5-mechanical-exploits)
 - [Rule 6: No Metagaming or Metacommunication](#rule-6-no-metagaming-or-metacommunication)
 - [Rule 7: No Ban Evading / Multi-Keying](#rule-7-no-ban-evading--multi-keying)
-- [Rule 8: Suicide, Rage-Quitting, and Logging off](#rule-8-suicide-rage-quitting-and-logging-off)
+- [Rule 8: Use your Slot](#rule-8-use-your-slot)
 - [Rule 9: Character names](#rule-9-character-names)
 - [Rule 10: Lethal Force](#rule-10-lethal-force)
-- [Rule 11: Marine Law](#rule-11-marine-law)
-- [Rules Clarification](#rules-clarification)
+- [Rule 11: Marine Law, Mutinies](#rule-11-marine-law-mutinies)
 
 ---
 
@@ -108,7 +107,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
-- Survivors should not be rushing to attack the hive before the roundstart larvas have had a chance to evolve.
+- Survivors should not be rushing to attack the hive before the roundstart xenos have had a chance to evolve.
  
 ### Command
 
@@ -154,7 +153,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Larva
 
 - Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
-- Larva cannot sneak onto dropships to get to the marine ship.
+  - This includes not sneaking into the FOB, Dropship or other secure enemy locations.
 - Larva are not recon castes, and should not be seeking out survivors.
 
 ### Queen
@@ -184,7 +183,8 @@ The general behavioural expectations for members of the community. Unless explic
 
 ## English Only
 
-- All communications within the server (IC and OOC) should be done in English only using ASCII characters. (So no Cyrilic, Arabic or any other non latin characters) Phrases from other languages are fine but should not make up the majority of your conversations.
+- All communications within the server (IC and OOC) should be done in English only using ASCII characters. (So no Cyrilic, Arabic or any other non latin characters)
+  - Phrases from other languages are fine but should not make up the majority of your conversations.
 - This extends to the use of Netspeak in-character. You should not be using LOL, WTF, or other similar abbreviations.
 
 ## Profane RP
@@ -267,8 +267,7 @@ Not Exploits:
 Exploits:
 - Banishing xenos on the Almayer so they can be killed for free larva.
 - Banishing AFK xenos to reclaim larva.
-- Walling off bodies to they cannot be recovered/revived.
-    - Where bodies fall within natural defense lines this is acceptable.
+- Placing Acid traps so they can be triggered from behind walls.
 
 ---
 
@@ -289,6 +288,7 @@ Metagaming:
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
 - Xenos walling in marine or xeno bodies to prevent them from being recovered.
+    - Where bodies fall within natural defense lines this is acceptable.
 - Killing small hosts as survivor before marines land.
     - This is explicitly a rulebreak exclusively due to the extensive impact this has on roundstart balance.
 - Surrounding a comms tower entirely with reinforced walls to prevent Xenos attacking it without T3s.
@@ -412,17 +412,6 @@ Some Exceptional Circumstances exist that give cause to bypass typical escalatio
 - There is one evac pod left and four people are trying to board it. The Hive is closing in on you, in desperation you kill the marine in front of you to take their place.
 - You are on the frontlines, another marine is enraged at you because you took one of his ammo magazines. You're engaged in a furious battle with the approaching hive and the fellow marine is attempting to disarm and tackle you to the ground. With no barricades around you, and no safe area to take cover within, you shoot the marine.
 
-## Hostile Factions
-
-If you are a member of a faction that is hostile to the USMC, you are not held by Lethal Force rules.
-
-This includes:
-- [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
-- [Union of Progressive People](https://cm-ss13.com/wiki/UPP)
-- Other response teams that indicate you are **hostile** when you spawn.
-
-However, hostile factions are expected to be consistently hostile to USCM forces, if they are to be hostile at all. You cannot pretend to be friendly - either in behavior, or in dressing in their uniform - and then backstab.
-
 ## Injury & Risk to Life
 
 In cases where there is a serious threat to life, such as being punched to the borders of crit, escalation in the linear sense does not apply. The most important part of escalation is appropriate force, this means that you use an appropriate amount of force to the situation. For example:
@@ -438,9 +427,24 @@ For example:
 - You can properly escalate fights with MP as outlined previously, however, this will still result in IC sanctions.
   - MP tools are not considered lethal weaponry. Unless an MP is shooting you, or using a baton on harm intent, you can't respond lethally.
 
+## Battlefield Executions
+
+- Whitelisted Commanding Officers are allowed to instantly kill any player at any time if the player fulfills the conditions found in Marine Law. Excessive or poorly-reasoned battlefield executions (such as BEing MPs over a valid arrest) may end with the Commanding Officers being removed from the whitelist.
+
+## Hostile Factions
+
+If you are a member of a faction that is hostile to the USMC, you are not held by Lethal Force rules.
+
+This includes:
+- [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
+- [Union of Progressive People](https://cm-ss13.com/wiki/UPP)
+- Other response teams that indicate you are **hostile** when you spawn.
+
+However, hostile factions are expected to be consistently hostile to USCM forces, if they are to be hostile at all. You cannot pretend to be friendly - either in behavior, or in dressing in their uniform - and then backstab.
+
 ---
 
-# Rule 11: Marine Law
+# Rule 11: Marine Law, Mutinies
 
 ### Malicious Compliance
 - Malicious Compliance with IC Military Law to impose excessive punishments, make an arrest on a technicality of someone non-disruptive and acting in good faith, or causing intentional delays in processing, release or appeals will fall under rule 3, Community Expectations and are actionable.
@@ -472,10 +476,6 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
 - Mutinies must have 5 members minimum.
     - Roles bound to follow Marine Law through Mandatory Obedience are unable to mutiny.
         - The USCM Synthetic is not required to aid Command in a Mutiny situation if this would put themselves at high risk, however their choice to help or not is binding, and they are unable to change their mind afterwards.
-
-## Battlefield Executions
-
-- Whitelisted Commanding Officers are allowed to instantly kill any player at any time if the player fulfills the conditions found in Marine Law. Excessive or poorly-reasoned battlefield executions (such as BEing MPs over a valid arrest) may end with the Commanding Officers being removed from the whitelist.
 
 ### Valid Roleplay Reasons
 
