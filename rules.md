@@ -153,7 +153,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Larva
 
 - Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
-  - This includes not sneaking into the FOB, Dropship or other secure enemy locations.
+- Larva should not be sneaking onto the dropship to head up to the Almayer.
 - Larva are not recon castes, and should not be seeking out survivors.
 
 ### Queen
