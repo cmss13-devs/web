@@ -1,7 +1,7 @@
 ---
 layout: policy
 permalink: /rules
-name: CM-SS13 Rules
+title: CM-SS13 Rules
 ---
 
 
