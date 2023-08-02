@@ -437,7 +437,6 @@ If you are a member of a faction that is hostile to the USMC, you are not held b
 
 This includes:
 - [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
-- [Union of Progressive People](https://cm-ss13.com/wiki/UPP)
 - Other response teams that indicate you are **hostile** when you spawn.
 
 However, hostile factions are expected to be consistently hostile to USCM forces, if they are to be hostile at all. You cannot pretend to be friendly - either in behavior, or in dressing in their uniform - and then backstab.
