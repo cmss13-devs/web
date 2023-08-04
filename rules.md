@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: rules
+layout: policy
 permalink: /rules
+title: CM-SS13 Rules
 ---
 
 
@@ -138,6 +136,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - Aliens have no free will. They are a hivemind, and their purpose is to enforce the will of the Queen and expand the Hive.
 - They are not friendly, and will not negotiate.
+  - They are not obligated to destroy synthetic lifeforms, and can ignore them at the wishes of the Queen.
 
 ### Language
 
