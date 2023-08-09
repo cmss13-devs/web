@@ -163,8 +163,9 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Shipside Xenomorphs
 
-- Xenomorphs should not be rushing to get onto the dropship before second drop.
 - While shipside xenomorphs can do almost everything they like once they get shipside they aren't allowed to attack people who just got out of cryo and are getting their gear.
+    - This restriction doesnt apply post-hijack.
+- Xenomorphs should not be rushing to get onto the dropship before second drop.
 
 ## Predator Roleplay Standards
 
