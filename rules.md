@@ -244,7 +244,7 @@ Not Exploits:
 - Setting up Keybinds or Macros using either the in game Keybind Preferences, or the BYOND Macros menu.
 - Using external software to make a mouse button - like M4 - register as a keyboard key entry, allowing it to be bound in game using the keybind menu.
 
-Exploits:
+Examples of Exploits:
 - Using autoclickers, rebinding M1 to the scroll wheel, or other macros outside of BYOND.
 - Using scripts to automatically target other players.
 
@@ -253,7 +253,7 @@ Exploits:
 Not Exploits:
 - A standard marine deconstructing a wall.
 
-Exploits:
+Examples of Exploits:
 - A standard marine creating Ordnance Tech Grenades or Explosives.
 - An Ordnance Tech stacking multiple C4 on one entity or object.
 - A Specialist not selecting a kit, allowing them to use multiple existing kits.
@@ -264,7 +264,7 @@ Exploits:
 Not Exploits:
 - Using fuel tanks as explosive traps by acid spitting.
 
-Exploits:
+Examples of Exploits:
 - Banishing xenos on the Almayer so they can be killed for free larva.
 - Banishing AFK xenos to reclaim larva.
 - Placing Acid traps so they can be triggered from behind walls.
@@ -283,7 +283,7 @@ Not Metagaming:
 - Shipside xenos attacking critical equipment like the tcomms or OB APCs.
 - Marines killing themselves after becoming infected or captured by the Xenos.
 
-Metagaming: 
+Examples of Metagaming: 
 - Wordlessly following a friend around without having any IC communications or interactions.
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
@@ -300,7 +300,7 @@ Not Metacommunication:
 - Teaching someone how to play the game and various mechanics through Voicechat, LOOC or other external communication methods.
 - Streaming the game with no delay.
 
-Metacommunication: 
+Examples of Metacommunication: 
 - Telling someone where the enemy are, event details or other In-Character information, that would otherwise be inaccessible, through Voicechat, LOOC or other external communication methods.
 
 ---
