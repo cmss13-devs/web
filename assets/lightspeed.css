@@ -1,0 +1,9 @@
+body {
+    background: #000;
+}
+
+.lightspeed {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
