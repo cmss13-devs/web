@@ -31,6 +31,8 @@ body {
     background: #15181E;
     border-top: 2px solid #587DA2;
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, .4);
+    z-index: 2;
+    position: relative;
 }
 
 .main-title {
