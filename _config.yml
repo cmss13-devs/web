@@ -20,7 +20,7 @@
 
 title: CM-SS13
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.cm-ss13.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cm-ss13.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
