@@ -389,7 +389,7 @@ Use a reasonable, unique, lore-friendly character name that has a first name and
 A name comprised of extremely common names (I.E John Williams) can be excused for being shared with someone otherwise forbidden, provided the player is not attempting to play as the linked person.
 
 ## Artificial Womb Soldiers
-Some soldiers in the USCM have been born as part of the Artificial Womb Soldier Program. This means that they do not have any biological parents who have passed along their last name to them. Instead these soldiers have been assigned a regular first name, the A.W. initials as a middle name and the name of a weapon as their surname.
+Some soldiers in the USCM have been born as part of the Artificial Womb Soldier Program. This means that they do not have any biological parents who have passed along their last name to them. Instead these soldiers have been assigned a regular first name, the A.W. initials as a middle name and a weapon as their surname.
 
 From a rules perspective there is the following limitation: As an A.W. Soldier you MUST have a weapon as your last name, and this weapon needs to have been used/developed before or during the Vietnam war. (1975 or earlier)
 
