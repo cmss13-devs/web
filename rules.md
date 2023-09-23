@@ -80,7 +80,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Deployment 
 
 - All personnel deployed should be following their role requirements. A Medic would not only be healing themselves, a Specialist is expected to take and use their equipment and a Squad Leader would not ignore the orders of command just to do their own thing.
-- Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and RTO) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
+- Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and FTL) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
 - Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
