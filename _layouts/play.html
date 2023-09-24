@@ -1,6 +1,6 @@
 <head>
     <meta http-equiv="refresh" content="1;url={{ page.server_url }}" />
-    <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="{{ site.url }}/assets/favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Play CM-SS13">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Join CM-SS13">
@@ -9,25 +9,31 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oxanium&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
     <link href="{{ site.url }}/assets/stylesheet.css" rel="stylesheet">
     <link href="{{ site.url }}/assets/lightspeed.css" rel="stylesheet">
     <title>Play CM-SS13</title>
 </head>
 
 <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
     <canvas class="lightspeed"></canvas>
     <script src="{{ site.url}}/assets/lightspeed.js"></script>
 
-    <div class="pop">
-        <img src="{{ site.url }}/assets/logo.png" alt="Logo" class="logo" />
+    <div class="container-fluid min-vh-100 d-flex flex-column justify-content-center align-items-center">
+        <img src="{{ site.url }}/assets/logo.png" alt="Logo" class="img-fluid" />
+        <div class="z-3 border-top bordered-blue background-black text-center p-3">
         <h1>Launching CM-SS13 - {{ page.server_name }}</h1>
         <p>Please allow the game to launch in the prompt that appears.</p>
         <p>
             If nothing appears, click here:
             <a href="{{ page.server_url }}">{{ page.server_url }}</a>
         </p>
-        <p>
-        </p>
+    </div>
     </div>
 </body>
 
