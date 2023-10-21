@@ -448,13 +448,19 @@ For example:
 
 ## Hostile Factions
 
-If you are a member of a faction that is hostile to the USMC, you are not held by Lethal Force rules.
+If you are a member of a faction hostile to the USCM which includes:
 
-This includes:
 - [Colonial Liberation Front](https://cm-ss13.com/wiki/CLF)
 - Other response teams that indicate you are **hostile** when you spawn.
 
-However, hostile factions are expected to be consistently hostile to USCM forces, if they are to be hostile at all. You cannot pretend to be friendly - either in behavior, or in dressing in their uniform - and then backstab.
+You are not held by Lethal Force rules so long as **all** of the following conditions are met:
+- You have not surrendered.
+- You have not willingly accepted medical aid from the USCM.
+- You have not changed into a uniform which obscures your allegiance.
+- You have remained "consistently hostile" to USCM forces.
+
+"Consistently hostile" is defined as a state in which you are actively engaging or are being engaged militarily by USCM forces as a known target. Engaging in subterfuge (such as sneaking into the FOB, Alamo, Almayer, etc.) does not sufficiently meet the standards to be considered "consistently hostile," as your intentions could be misconstrued by USCM forces. "Consistently hostile" should be considered from the perspective of server culture, rather than relying solely on common sense, and it is subject to interpretation by staff. If you have questions regarding which actions are acceptable to continue bypassing lethal force rules, please ask a staff member.
+
 
 ---
 
