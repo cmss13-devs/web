@@ -91,7 +91,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Ship Modifications 
 
 - Deconstruction of the ship should not be occuring before first drop & confirmed contact. The marines would not immediately resort to taking their warship to pieces for a random unconfirmed distress call. 
-- This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance. 
+- This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance.
+- It also includes the removal of vendors from the ship where not explicitly necessary. You would not drag half the contents of the medical bay to the field immediately.
 - Modifications to the ship should not be made with meta-purposes, no building a maze or bunker on the ship intended to help secure the ship for hijack before you even know hijack is a thing.
 
 ### Synthetics 
