@@ -152,7 +152,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Larva
 
-- Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
+- Larva should remain within the Hive and avoid the frontlines, this is especially the case for roundstart larva.
+    - Marines about to reach the hive core with insufficient xenos defending the hive or Queen about to start hijack are legitimate reasons to leave the hive as larva.
 - Larva should not be sneaking onto the dropship to head up to the Almayer.
 - Larva are not recon castes, and should not be seeking out survivors.
 
