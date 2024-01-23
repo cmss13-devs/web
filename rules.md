@@ -180,6 +180,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 The general behavioural expectations for members of the community. Unless explicitly stated these rules apply to all areas of the community.
 - Don't be a dick.
+- Don't joke about OOC threats or make any threats in that respect.
+- Use common sense to determine if something is acceptable or not, if unsure ahelp or ask in #staff-help channel on discord.
 - This is not a complete list and only includes the most important elements.
 
 ## English Only
