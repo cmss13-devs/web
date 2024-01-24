@@ -223,7 +223,7 @@ The general behavioural expectations for members of the community. Unless explic
 
 # Rule 4: No griefing
 
-Griefing is the intent of one player wanting to cause grief or annoyance to other players or the server without a valid roleplay reason. If Staff believes that the player’s intent is to grief, then action will be taken whether or not it was the player’s intent. Any damage to the station or players caused by griefing can be repaired at an Admin's discretion. If you are being griefed, don’t retaliate - Adminhelp it and you’ll get healed. Shooting a griefer can cause you to get in trouble as well, and the combat logs you’re generating make it harder for Staff to prove who the real griefer is.
+Griefing is the intent of one player wanting to cause grief or annoyance to other players or the server without a valid roleplay reason. If Staff believes that a player’s intent is to grief, action will be taken regardless of claimed intent. Any damage caused by griefing can be repaired at the handling staff members discretion. If you are being griefed, don’t retaliate - Adminhelp it and you’ll get healed. Shooting a griefer can cause you to get in trouble as well, and the combat logs you’re generating make it harder for Staff to prove who the real griefer is.
 
 ## Typical Griefing
 
@@ -233,8 +233,9 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 
 ## End of Round Grief (EORG)
 
-- End of Round Grief (EORG) is fighting and generating any combat logs with friendly players after the round ends and is an immediate 3-hour ban without warning. Exceptions are between normal enemies, such as Marines and Aliens, Marines and UPP, etc.
+- End of Round Grief (EORG) is fighting and generating combat logs with friendly players after the round ends and is an immediate 3-hour ban without warning. Exceptions are between normal enemies, such as Marines and Aliens, Marines and UPP, etc.
     - This includes suicide at the end of the round without a valid RP reason.
+    - Trying to bait someone into EORG or deliberatly walking into bullets to try and get someone else EORG banned will result in you being punished instead.
 
 ---
 
