@@ -349,6 +349,7 @@ These are some example roles that might be punished for not fufilling your role 
 - Requisitions Officer
 - Cargo Technician
 - Doctor
+- Tier 3 Xenomorph
 
 ### Low Risk Roles
 
@@ -356,7 +357,7 @@ These are some example roles that are unlikely to be punished for not fufilling 
 
 - Squad Marine
 - Maintenance Technician
-- Xenomorph
+- Tier 1/2 Xenomorph
 
 ---
 
