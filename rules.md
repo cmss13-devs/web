@@ -336,7 +336,7 @@ Some roles carry the risk of punishment for logging out or ghosting without noti
 
 ### High Risk Roles
 
-These are some example roles that are likely to be punished for logging out/ghosting without notice.
+These are some example roles that are likely to be punished for not fufilling your role or logging out/ghosting without notice.
 
 - Executive Officer
 - Squad Specialist
@@ -344,19 +344,19 @@ These are some example roles that are likely to be punished for logging out/ghos
 
 ### Medium Risk Roles
 
-These are some example roles that might be punished for logging out/ghosting without notice.
+These are some example roles that might be punished for not fufilling your role or logging out/ghosting without notice.
 
 - Requisitions Officer
 - Cargo Technician
 - Doctor
-- Xeno
 
 ### Low Risk Roles
 
-These are some example roles that are unlikely to be punished for logging out/ghosting without notice.
+These are some example roles that are unlikely to be punished for not fufilling your role or logging out/ghosting without notice.
 
 - Squad Marine
 - Maintenance Technician
+- Xenomorph
 
 ---
 
