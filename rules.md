@@ -28,8 +28,9 @@ Staff retain the authority to ignore or alter the enforcement of specific rules 
 
 ## Rule 0.1 Intent
 
-Rules are enforced as intended. Every example of a rule break cannot be defined as written; therefore, enforcement of the rules is subject to staff interpretation of the rule's intention. Staff retain discretion on when a minor rule break can be handled via "In-Character" consequences, by utilizing in-game tools to correct improper behavior, in place of notes, warnings or bans. If staff use "In-Character" behavior adjusment, no warning notes and/or bans shall be issued, unless further rule violations take place.
-Some rule breaks like OOC in IC/Netspeak cannot be handled "In-Character" due to their inherent OOC nature. Staff members shall not use "In-Character" consequences for major rule breaks such as Mass Grief/ERP/Multikeying. Players shouldn't request a staff member to handle things "In-Character" and the final decision rests solely on the staff member conducting the investigation.
+Rules are enforced as intended. Every example of a rule break cannot be defined as written; therefore, enforcement of the rules is subject to staff interpretation of the rule's intention. Staff retain discretion on when a minor rule break can be handled via "In-Character" consequences by utilizing in-game tools to correct improper behavior in place of issueing notes, warnings or bans. If staff use "In-Character" behavior adjusment, no warning notes and/or bans shall be issued, unless further rule violations take place.
+
+Some rule breaks like OOC in IC/Netspeak cannot be handled "In-Character" due to their inherent OOC nature. Staff members shall not use "In-Character" consequences for major rule breaks such as Mass Grief/ERP/Multikeying. Players shouldn't ask for staff members to handle/not handle things "In-Character". The final decision as to how a situation is handled rests solely on the staff member conducting the investigation.
 
 ## Rule 0.2 Authority
 
