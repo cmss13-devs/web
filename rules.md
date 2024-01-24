@@ -258,7 +258,7 @@ Not Exploits:
 - A standard marine deconstructing a wall.
 
 Examples of Exploits:
-- A standard marine creating Ordnance Tech Grenades or Explosives.
+- Attaching C4 to a mob/object and moving that thing around to turn C4 into a mobile explosive.
 - An Ordnance Tech stacking multiple C4 on one entity or object.
 - A Specialist not selecting a kit, allowing them to use multiple existing kits.
 - Stacking mini turrets and M56Ds.
