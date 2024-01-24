@@ -288,13 +288,11 @@ Not Metagaming:
 - Marines killing themselves after becoming infected or captured by the Xenos.
 
 Examples of Metagaming: 
-- Wordlessly following a friend around without having any IC communications or interactions.
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
-- Xenos walling in marine or xeno bodies to prevent them from being recovered.
-    - Where bodies fall within natural defense lines this is acceptable.
-- Killing small hosts as survivor before marines land.
-    - This is explicitly a rulebreak exclusively due to the extensive impact this has on roundstart balance.
+- Xenos walling in marine or xeno bodies with the primary purpose being to prevent recovery.
+- Killing monkeys/neaera/ETC. as survivor before marines land.
+    - This is a rulebreak because of the disproportionate impact this has on roundstart balance.
 - Surrounding a comms tower entirely with reinforced walls to prevent Xenos attacking it without T3s.
     - Walls can be used to cover most of the tower, however there must remain access for other xenos IE barricades.
 
@@ -305,6 +303,7 @@ Not Metacommunication:
 - Streaming the game with no delay.
 
 Examples of Metacommunication: 
+- Wordlessly following a friend around without having any IC communications or interactions.
 - Telling someone where the enemy are, event details or other In-Character information, that would otherwise be inaccessible, through Voicechat, LOOC or other external communication methods.
 
 ---
