@@ -419,7 +419,8 @@ Do not attack another player without a legitimate, explainable roleplay reason t
 
 ## Escalation
 
-- Fists/General melee
+- Fists/General melee/MP tools
+  - MP tools are not considered lethal weaponry. Unless a MP is shooting you, or using a baton on harm intent, you can't respond lethally.
 - Knives/Dangerous melee
 - Lethal Weapons/Chemicals used as weapons
   - For example: Inaprovaline Overdoses, Chloral Hydrate, Tramadol/Oxycodone Overdoses
@@ -443,8 +444,7 @@ Escalation still applies when attempting to remove a marine from the brig after 
 
 For example:
 - You cannot use C4 or lethal explosives in order to break into the brig and release a marine.
-- You can properly escalate fights with MP as outlined previously, however, this will still result in IC sanctions.
-  - MP tools are not considered lethal weaponry. Unless an MP is shooting you, or using a baton on harm intent, you can't respond lethally.
+- You can properly escalate fights with MP following regular escalation. However, this will still result in IC sanctions.
 
 ## Battlefield Executions
 
