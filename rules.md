@@ -443,8 +443,7 @@ In cases where there is a serious threat to life, such as being punched to the b
 Escalation still applies when attempting to remove a marine from the brig after being imprisoned by the Military Police.
 
 For example:
-- You cannot use C4 or lethal explosives in order to break into the brig and release a marine.
-- You can properly escalate fights with MP following regular escalation. However, this will still result in IC sanctions.
+- You cannot use C4 or other explosives in order to break into the brig and release a marine since you would be breaking the escalation rules by skipping straight to lethal weapons.
 
 ## Battlefield Executions
 
