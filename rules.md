@@ -7,7 +7,7 @@ title: CM-SS13 Rules
 
 ---
 
-- [Rule 0: Admin Authority](#rule-0-admin-authority)
+- [Rule 0: Staff Authority](#rule-0-staff-authority)
 - [Rule 1: No Erotic Role Play (ERP), erotic content, or 18+ sexual content](#rule-1-no-erotic-role-play-erp-erotic-content-or-18-sexual-content)
 - [Rule 2: Roleplay](#rule-2-roleplay)
 - [Rule 3: Community Expectations](#rule-3-community-expectations)
@@ -22,7 +22,7 @@ title: CM-SS13 Rules
 
 ---
 
-# Rule 0: Admin Authority
+# Rule 0: Staff Authority
 
 Staff retain the authority to ignore or alter the enforcement of specific rules at their discretion should they feel it is in the best interest of the current round, the server or the player base at large. When this Rule is invoked permission should be asked to do so from the highest ranking staff member online at the time. Any use of Rule 0 holds it’s user fully accountable for the actions taken due to their change of the rulings.
 
