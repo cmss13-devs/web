@@ -233,9 +233,9 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 
 ## End of Round Grief (EORG)
 
-- End of Round Grief (EORG) is fighting and generating combat logs with friendly players after the round ends and is an immediate 3-hour ban without warning. Exceptions are between normal enemies, such as Marines and Aliens, Marines and UPP, etc.
+- End of Round Grief (EORG) is fighting and generating combat logs with friendly players after the round ends and may yield an immediate 3-hour ban without warning. Exceptions are between normal enemies, such as Marines and Aliens, Marines and UPP, etc.
     - This includes suicide at the end of the round without a valid RP reason.
-    - Trying to bait someone into EORG or deliberatly walking into bullets to try and get someone else EORG banned will result in you being punished instead.
+    - Trying to bait someone into EORG or deliberately walking into bullets to try and get someone else EORG banned will result in you being punished instead.
 
 ---
 
