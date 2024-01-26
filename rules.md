@@ -199,7 +199,7 @@ The general behavioural expectations for members of the community. Unless explic
 
 - Usage of slurs IC/OOC on the server will result in a 7 day ban, automatically.
 - Racism of any kind is strictly forbidden and will not be tolerated.
-- Being Homophobic, Sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
+- Being homophobic, sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
 - BYOND ckey/usernames that are deemed racist, homophobic, sexist, etc... by staff are not permitted. You will be given a chance to create a new CKEY and you must request our staff to transfer any notes.
 
 ## Stereotypes
