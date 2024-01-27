@@ -519,6 +519,6 @@ There is a bit more leeway for these kinds of evacuations compared to regular mu
 - This is the only kind of mutiny permitted during hijack.
 - Ship evacuation mutinies do not require ahelping. It is still recommended to ahelp before or after so you dont have confused staff members asking you why you just shot the CO.
 - Evacuation can start with 1 person instead of the five member minimum that a regular mutiny has.
-    - Roles bound to follow marine law like MPs, SEAs and XOs ARE allowed to participate in evacuation mutinies. The only role not allowed to participate is the USCM synthetic role.
+    - Roles normally bound to follow marine law ARE allowed to participate in this kind of mutiny.
 - Evacuation mutinies must use minimum force to succeed.
     - No terminating everyone in CIC just because the Commander doesn't want to evacuate.
