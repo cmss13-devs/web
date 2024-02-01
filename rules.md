@@ -471,7 +471,7 @@ You are not held by Lethal Force rules so long as **all** of the following condi
 # Rule 11: Marine Law, Mutinies
 
 ### Malicious Compliance
-- Malicious Compliance is using IC Military Law to impose excessive punishments, make an arrest on a technicality of someone non-disruptive who is acting in good faith or causing intentional delays in the jailing and appealing process.
+- Malicious Compliance is using IC Military Law to impose excessive punishments, make an arrest on a technicality of someone non-disruptive who is acting in good faith, or causing intentional delays in the jailing and appealing process.
 - Malicious Compliance does not apply where IC or OOC provocation is present. (For example: following and taunting/threatening a player, engaging in mundane but disruptive actions and continuing when asked or told to stop, etc)
 
 ### Mandatory Obedience
