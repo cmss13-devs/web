@@ -498,6 +498,7 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
 - During the mutiny attacking any uninvolved, medical or surrendered personnel is strictly forbidden, as is intentionally perma-killing anyone involved.
     - Once you have picked a side, it is permanent. No flip flopping.
     - Additionally, if you have surrendered during a mutiny you cannot restart hostilities and must follow regular escalation rules again.
+    - If medical personnel is taking part in a mutiny by doing more than just providing medical treatment by for example also taking part in combat they can be treated as any other mutineer.
 - Once concluded, all sides must be given medical treatment. Only a Major or higher is able to deny treatment or battlefield execute specific mutineers.
 
 ### Examples of Valid Mutiny Reasons:
