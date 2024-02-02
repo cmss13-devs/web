@@ -466,9 +466,8 @@ You are not held by Lethal Force rules so long as **all** of the following condi
 # Rule 11: Marine Law, Mutinies
 
 ### Malicious Compliance
-- Malicious Compliance with IC Military Law to impose excessive punishments, make an arrest on a technicality of someone non-disruptive and acting in good faith, or causing intentional delays in processing, release or appeals will fall under rule 3, Community Expectations and are actionable.
-- Malicious Compliance does not apply in any case where IC or OOC provocation is present. (For example, following and taunting/threatening a player, engaging in mundane, but disruptive actions and continuing when asked or told to stop, etc)
-- Malicious Compliance is determined by Staff and reviewed by Management/Head Staff where necessary.
+- Malicious Compliance is using IC Military Law to impose excessive punishments, make an arrest on a technicality of someone non-disruptive who is acting in good faith, or causing intentional delays in the jailing and appealing process.
+- Malicious Compliance does not apply where IC provocation is present. (For example: following and taunting/threatening a player, engaging in mundane but disruptive actions and continuing when asked or told to stop, etc)
 
 ### Mandatory Obedience
 The following roles are required to follow Marine Law by the server rules. Breaking Marine Law may result in jobbans or further consequences.
@@ -478,42 +477,44 @@ The following roles are required to follow Marine Law by the server rules. Break
 
 ### Exceptions
 - Military Police may ignore Minor Crimes unless ordered to enforce them, but they may not ignore Major or Capital Crimes.
-- Survivor Synthetics are not forced to follow Marine Law, dependent on their chosen alignment (Colony/Survivors/USCM/WY etc.)
+- Survivor Synthetics might not be forced to follow Marine Law, dependent on their chosen alignment. (Colony/Survivors/USCM/WY etc.)
 - Marine Law can be broken when necessary to preserve the lives and safety of others.
 
 ## Mutinies
 
-Mutinies must be Adminhelped by a chosen leader stating the reasoning and the players directly involved. There must be at least 5 members. with MPs not eligible to mutiny.
+Mutinies must be Adminhelped by a chosen leader stating the reasoning and the players directly involved. They should also follow the mutiny rules as outlined below.
 
+- Mutinies must have 5 members minimum.
+    - Roles bound to follow Marine Law through Mandatory Obedience are unable to participate in a mutiny. They ARE allowed to stay neutral if they agree with the mutineers though.
 - If the mutiny does not have a valid reason, it can't happen.
     - Staff reserve the right to grant or deny mutinies, and to decide if the reason given is sufficient.
-- Mutiny cannot occur during hijack, and any ongoing mutiny must be ended upon hijack.
+- Regular mutinies cannot occur during hijack, and any ongoing mutiny must be ended upon hijack.
 - Only the Acting Commander can be mutinied against for their decisions, actions, or inactions. They must be given a chance to stand down peacefully.
-- During the mutiny, attacking any uninvolved, medical, or surrendered personnel is strictly forbidden, as is perma-killing anyone involved. If you have surrendered during a mutiny, you must remain as such.
-    - Once you have picked a side, it is permanent. No take-backs unless you surrender.
+- During the mutiny attacking any uninvolved, medical or surrendered personnel is strictly forbidden, as is intentionally perma-killing anyone involved.
+    - Once you have picked a side, it is permanent. No flip flopping.
+    - Additionally, if you have surrendered during a mutiny you cannot restart hostilities and must follow regular escalation rules again.
+    - If medical personnel is taking part in a mutiny by doing more than just providing medical treatment by for example also taking part in combat they can be treated as any other mutineer.
 - Once concluded, all sides must be given medical treatment. Only a Major or higher is able to deny treatment or battlefield execute specific mutineers.
-- Mutinies must have 5 members minimum.
-    - Roles bound to follow Marine Law through Mandatory Obedience are unable to mutiny.
-        - The USCM Synthetic is not required to aid Command in a Mutiny situation if this would put themselves at high risk, however their choice to help or not is binding, and they are unable to change their mind afterwards.
 
-### Valid Roleplay Reasons
+### Examples of Valid Mutiny Reasons:
 
 - Commander is thoroughly incompetent, an ineffective leader and the next person in line would be a better leader.
 - Commander is generally noncommunicative and make no effort to lead.
 - Commander is refusing evacuation, either of the AO or ship during hijack
 
-### Invalid Roleplay Reasons
+### Examples of Invalid Mutiny Reasons:
 
 - Xenos achieved an early or relatively easy victory, outside the control of command.
 - MPs have arrested your specialist.
 
 ### Evacuation Mutinies
+Evacuation mutinies are mutinies that are used when a Commander is refusing evacuation of either the Colony or the Almayer. Instead of the intent being to replace the person in command of the Almayer the intent of these mutinies is to get an evacuation going to try and save the lives of the people that want to evacuate.
+There is a bit more leeway for these kinds of evacuations compared to regular mutinies and that is outlined below.
 
-- This applies to both the field and the ship during hijack.
-- This is the only permitted mutiny during hijack.
-- AO evacuation refusal requires 5 people to mutiny as there may be reasons beyond the knowledge of one person.
-- Ship evacuation refusal may be mutinied by a single person.
-    - MPs are not required to help the Commander in this mutiny, and may join/aide/start the mutiny themselves.
-    - Ship evacuation mutinies do not REQUIRE ahelps, however it is recommended to ahelp before or after to make intentions known to staff.
-- Ship evacuation refusal mutinies must provide at least one chance for the Commander to authorise evacuation, and must use minimum force to succeed.
-    - No terminating the entire CIC because the Commander doesn't want to evacuate.
+- !!REMINDER!! You still MUST give the Commander a chance to peacefully allow the evacuation. You cant go in guns blazing without actually trying to negotiate first.
+- This is the only kind of mutiny permitted during hijack.
+- Ship evacuation mutinies do not require ahelping. It is still recommended to ahelp before or after so you dont have confused staff members asking you why you just shot the CO.
+- Evacuation can start with 1 person instead of the five member minimum that a regular mutiny has.
+    - Roles normally bound to follow marine law ARE allowed to participate in this kind of mutiny.
+- Evacuation mutinies must use minimum force to succeed.
+    - No terminating everyone in CIC just because the Commander doesn't want to evacuate.
