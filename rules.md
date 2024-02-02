@@ -40,9 +40,9 @@ If a staff member gives you an instruction or makes a ruling, do not argue with 
 
 # Rule 1: No Erotic Role Play (ERP), erotic content, or 18+ sexual content
 
-Roleplay intended to elicit a sexual response from the receiver(s), including but not limited to writing stories (WGW) or posting links to adult content. Doing so will almost always result in an instant permaban from our server. However, these actions could still be susceptible to Marine Law. A good rule of thumb for whether an interaction crosses this line would be to consider if the action would be allowed in a PG-13 rated movie in the USA.
+Roleplay intended to elicit a sexual response from the receiver(s), including but not limited to writing stories (WGW) or posting links to adult content. Doing so will almost always result in an instant permaban from our server. A good rule of thumb for whether an interaction crosses this line would be to consider if the action would be allowed in a PG-13 rated movie in the USA.
 
-Staff reserve the right to make judgement calls on situations to determine if they constitute a breach of 18+ or erotic conduct. If something is overly disgusting or crosses a line in a way that becomes an 18+ situation, it may be punished for regardless of nature.
+Staff reserve the right to make judgement calls on situations to determine if they constitute a breach of 18+ or erotic conduct. If something is overly disgusting or crosses a line in a way that becomes an 18+ situation, it may be punished for regardless of intent.
 
 If you are not sure whether something you wish to say or do is okay, AHelp first. We would rather you ask and be told no, than have it happen and a ban become necessary.
 
