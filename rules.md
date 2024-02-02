@@ -362,7 +362,7 @@ These are some example roles that are unlikely to be punished for not fufilling 
 
 # Rule 9: Character names
 
-Use a reasonable, unique, lore-friendly character name that has a first name and surname. Short reasonable nicknames are allowed inside the name (e.g. Derek 'Double-D' Donahue, Jane 'Crusher' Sanchez). Other character names should not be used, this includes ckeys. Nicknames should not be considered a meme. Nicknames should also not be slurs, 18+ content, etc... You may be a sibling or cousin of another player's character, however you cannot play another player's character unless it's part of a staff event. References can be made to characters in the Official CM-SS13 lore. Xenomorph prefixs should not be 18+ or slurs as well. Staff retain rights to make the final judgement if a name or Xenomorph prefix is acceptable or unacceptable.
+Use a reasonable, unique, lore-friendly character name that has a first name and surname. Short reasonable nicknames are allowed inside the name (e.g. Derek 'Double-D' Donahue, Jane 'Crusher' Sanchez). Other character names should not be used, this includes ckeys. You may be a sibling or cousin of another player's character, however you cannot play another player's character unless it's part of a staff event. Nicknames should not be considered a meme. Nicknames should also not be slurs, 18+ content, etc... Xenomorph prefixes shouldn't be any of these things either. Staff retain rights to make the final judgement if a name or Xenomorph prefix is acceptable or unacceptable.
 
 - Ranked, titled, honorific, offensive, famous and pop-culture names are not allowed
 - Roman numerals may be used, but should not be excessive.
@@ -390,7 +390,7 @@ Use a reasonable, unique, lore-friendly character name that has a first name and
 
 ## Exceptions
 
-A name comprised of extremely common names (I.E John Williams) can be excused for being shared with someone otherwise forbidden, provided the player is not attempting to play as the linked person.
+A name comprised of extremely common names (I.E John Williams) can be excused for being shared with someone famous, provided the player is not attempting to imitate or overtly reference the linked person.
 
 ## Artificial Womb Soldiers
 Some soldiers in the USCM have been born as part of the Artificial Womb Soldier Program. This means that they do not have any biological parents who have passed along their last name to them. Instead these soldiers have been assigned a regular first name, the A.W. initials as a middle name and a weapon as their surname.
@@ -406,10 +406,6 @@ Unacceptable names:
 
 - Jimmy A.W. Smith
 - Bob A.W. Scar
-
-## Xeno names
-
-Xeno names cannot be 18+ related, slurs, or abbreviations of other banned words.
 
 ---
 
