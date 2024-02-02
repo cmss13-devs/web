@@ -7,7 +7,7 @@ title: CM-SS13 Rules
 
 ---
 
-- [Rule 0: Admin Authority](#rule-0-admin-authority)
+- [Rule 0: Staff Authority](#rule-0-staff-authority)
 - [Rule 1: No Erotic Role Play (ERP), erotic content, or 18+ sexual content](#rule-1-no-erotic-role-play-erp-erotic-content-or-18-sexual-content)
 - [Rule 2: Roleplay](#rule-2-roleplay)
 - [Rule 3: Community Expectations](#rule-3-community-expectations)
@@ -22,13 +22,15 @@ title: CM-SS13 Rules
 
 ---
 
-# Rule 0: Admin Authority
+# Rule 0: Staff Authority
 
-Admins and Above retain the authority to ignore or alter the enforcement of specific rules at their discretion should they feel it is in the best interest of the current round, the server or the player base at large. In the absence of an Admin or higher ranking member of staff, Moderators may exercise this power following their own chain of authority. Any use of Rule 0 holds it’s user fully accountable for the actions taken due to their change of the rulings.
+Staff retain the authority to ignore or alter the enforcement of specific rules at their discretion should they feel it is in the best interest of the current round, the server or the player base at large. When this Rule is invoked permission should be asked to do so from the highest ranking staff member online at the time. Any use of Rule 0 holds it’s user fully accountable for the actions taken due to their change of the rulings.
 
 ## Rule 0.1 Intent
 
-Rules are enforced as intended. Every example of a rule break cannot be defined as written, therefore, enforcement of the rules is subject to staff interpretation of the rule's intention. Staff may choose to handle minor rule breaks by utilizing in-game tools to correct improper behavior. Staff retain discretion on when a minor rule break can be handled via "In-Character" consequences in place of warning notes and/or bans. Minor rule breaks such as OOC in IC/Netspeak cannot be handled "In-Character." Staff members shall not use "In-Character" consequences for major rule breaks such as Mass Grief/ERP/Multikeying. If staff use "In-Character" behavior adjusment, no warning notes and/or bans shall be issued, unless further rule violations take place. Players shall not request a staff member to handle things "In-Character" and the final decision rests solely on the staff member conducting the investigation
+Rules are enforced as intended. Every example of a rule break cannot be defined as written; therefore, enforcement of the rules is subject to staff interpretation of the rule's intention. Staff retain discretion on when a minor rule break can be handled via "In-Character" consequences by utilizing in-game tools to correct improper behavior in place of issueing notes, warnings or bans. If staff use "In-Character" behavior adjusment no warning notes and/or bans shall be issued unless further rule violations take place.
+
+Some rule breaks like OOC in IC/Netspeak cannot be handled "In-Character" due to their inherent OOC nature. Staff members shall not use "In-Character" consequences for major rule breaks such as Mass Grief/ERP/Multikeying. Players shouldn't ask for staff members to handle/not handle things "In-Character". The final decision as to how a situation is handled rests on the staff member conducting the investigation.
 
 ## Rule 0.2 Authority
 
