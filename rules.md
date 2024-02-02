@@ -200,8 +200,8 @@ The general behavioural expectations for members of the community. Unless explic
 ## Racism and Bigotry
 
 - Usage of slurs IC/OOC on the server will result in a 7 day ban, automatically.
-- Racism, the use of slurs and other targeting terms or phrases is strictly forbidden and will not be tolerated.
-- Being Homophobic, Sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
+- Racism of any kind is strictly forbidden and will not be tolerated.
+- Being homophobic, sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
 - BYOND ckey/usernames that are deemed racist, homophobic, sexist, etc... by staff are not permitted. You will be given a chance to create a new CKEY and you must request our staff to transfer any notes.
 
 ## Stereotypes
@@ -212,10 +212,6 @@ The general behavioural expectations for members of the community. Unless explic
 ## No Advertising
 
 - Don’t post byond://, Discord, Twitch, etc, links to other servers purely for the sake of advertising. If you wish to share links to these kinds of places, either ahelp for permission or do so off the server (IE: over Byond messages or Discord).
-
-## Media Spoilers
-
-- Giving out plot spoilers to any media with malicious intent is not allowed, but the general discussion of plot that contains spoilers about media released 1 year ago or longer is fine.
 
 ## Spam
 
