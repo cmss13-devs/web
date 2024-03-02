@@ -114,7 +114,6 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - COs, XOs or aCOs are OOCly bound to follow [Non-Modifiable Standard Operating Procedure](https://cm-ss13.com/wiki/Standard_Operating_Procedure#Non-Modifiable_Standard_Operating_Procedure).
     - For example you MUST conduct a briefing before the start of the operation and HAVE TO make an attempt to build defences around your primary LZ.
-- Both the Marine CIC and the Queen - can send images of the map, from the wiki, webmap or tactical map, with annotations drawn on them, as announcements, if uploaded to a trusted hosting service.
 
 ### ID Cards
 
