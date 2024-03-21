@@ -117,7 +117,9 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### ID Cards
 
-- These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to. - You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so. 
+- These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to.
+    - You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so.
+    - You should not be granting yourself or others (semi-)full access ID cards.
 - Death or absence of any senior officers is suitable reason to grant yourself needed access to run the operation. 
 - Requisitions missing personnel is a valid reason to give other people or yourself access to Requisitions etc.
 
