@@ -69,7 +69,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Dropship Arrests & Riots 
 
-- Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. 
+- Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise. 
 
 ### Sanity
 
