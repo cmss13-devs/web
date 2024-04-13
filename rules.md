@@ -228,7 +228,6 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 
 - Shooting up medbay at round start.
 - Deliberately OBing the marine frontline.
-- Shooting a marine without their consent, ICly or OOCly, when a xeno attempts to capture them.
 
 ## End of Round Grief (EORG)
 
