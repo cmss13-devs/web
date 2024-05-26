@@ -417,7 +417,7 @@ Do not attack another player without a legitimate, explainable roleplay reason t
 
 - Fists/General melee/MP tools
   - MP tools are not considered lethal weaponry. Unless a MP is shooting you, or using a baton on harm intent, you can't respond lethally.
-- Knives/Dangerous melee
+- Knives/Dangerous melee/Less-than-lethal ranged weapons
 - Lethal Weapons/Chemicals used as weapons
   - For example: Inaprovaline Overdoses, Chloral Hydrate, Tramadol/Oxycodone Overdoses
 - If at any point combat is disengaged and both parties leave the area, you cannot skip escalation and plunge back into a fight. What's done is done.
