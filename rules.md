@@ -290,7 +290,7 @@ Examples of Metagaming:
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
 - Xenos walling in marine or xeno bodies with the primary purpose being to prevent recovery.
-- Killing monkeys/neaera/ETC. as survivor before marines land.
+- Killing, or otherwise denying capture of, monkeys/neaera/ETC. as survivor before marines land.
     - This is a rulebreak because of the disproportionate impact this has on roundstart balance.
 - Surrounding a comms tower entirely with reinforced walls to prevent Xenos attacking it without T3s.
     - Walls can be used to cover most of the tower, however there must remain access for other xenos IE barricades.
