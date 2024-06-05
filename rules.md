@@ -165,6 +165,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - The Queen can banish Xenos who fail to uphold these standards and expectations - banish cannot be used as a joke.
 - The Queen cannot use banish for clear mechanical advantage - such as banishing xenos that are in containment, in order to reclaim larva.
 - The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfil this criteria.
+    - The Queen may not force xenos into a specific caste or strain, and cannot banish them if they refuse.
 
 ### Shipside Xenomorphs
 
