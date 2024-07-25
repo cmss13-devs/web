@@ -134,7 +134,7 @@ Your guardian angel. We only get 2 drums of 500 10x28mm per unit. Upgraded senso
 
 * ![USCM](../assets/m41a.png) **M4RA-R2** <small>Oh god! Corpsman has IB!</small>
 
-The M4RA-R2, loved by some, hated by your corpsman. This baby’ll go through just about any armor or wall you throw at it, Marines included. Got some fancy pants depleted uranium rounds, thankfully the corpsman says it's not radioactive, just highly toxic! The corps barely made any of these bastards so we only get one, gunny likes to issue it but if you take it i'm sure they won't mind
+The M4RA-R2, loved by some, hated by your corpsman. This baby’ll go through just about any armor or wall you throw at it, Marines included. Got some fancy pants depleted uranium rounds, thankfully the corpsman says it's not radioactive, just highly toxic! The corps barely made any of these bastards so we only get one, gunny likes to issue it but if you take it I'm sure they won't mind
 
 
 You’ll find all of this stuff in the squad prep bay, both squads get issued one of each of the special shit in the armory just east of the prep bay. Additional gear includes M314 motion detectors and a box of M40 HEDPs per squad. Ammos in the crates, break 'em open with a crowbar. Just make sure you aren't stealing the other squad's stuff unless you ask first."
