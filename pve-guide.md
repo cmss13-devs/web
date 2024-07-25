@@ -94,7 +94,7 @@ Or, better yet, let the smartie turn around and gun it down. He can’t really s
 
 <br>
 
-# Hold your ground
+# Hold your ground ![USCM](../assets/uscm.png)
 
 On the Almayer, they might teach you to dance around, dodging enemy fire. It’s different over here. Find cover, set lanes of fire. Look for a choke to funnel the bugs so you can pour lead on ‘em.
 
@@ -109,7 +109,7 @@ Charging is stupid. You’ll shoot each other because the bugs are between you a
 
 <small> Pop culture lied to you folks. The last time a marine counter-charge worked, it was when our enemies didn’t bleed acid and have sharp teeth for weapons. Eat your heart out, Stallone. </small>
 
-# Your hardware
+# Your hardware ![USCM](../assets/uscm.png)
 
 * ![USCM](../assets/m41a.png) **M41A Pulse Rifle** <small>Your best friend/gay lover. I don’t judge, man.</small>
 
@@ -139,7 +139,7 @@ The M4RA-R2, loved by some, hated by your corpsman. This baby’ll go through ju
 
 You’ll find all of this stuff in the squad prep bay, both squads get issued one of each of the special shit in the armory just east of the prep bay. Additional gear includes M314 motion detectors and a box of M40 HEDPs per squad. Ammos in the crates, break 'em open with a crowbar. Just make sure you aren't stealing the other squad's stuff unless you ask first."
 
-# Our corner of the Golden Arrow
+# Our corner of the Golden Arrow ![USCM](../assets/uscm.png)
 
 This is our platoon’s jump point.
 
