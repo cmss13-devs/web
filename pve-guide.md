@@ -147,4 +147,16 @@ This is our platoon’s jump point.
 
 ![Golden arrow](../assets/goldenarrow.png)
 
+# These other guys ![USCM](../assets/uscm.png)
+
+Some people say that command is concerned with other forces operating in our sector. Here's what I heard...
+
+* Red Dawn. ![Commies](../assets/union.png)
+
+The UPP guys, Space Operating Forces, Naval Infantry platoon. Their doctrines are similar to ours: 10 infantrymen, officer doing overwatch. They got sentries like we got, they got IFF-capable machineguns like we got, they even got pulse rifles, shotguns and flamers like we got - but all their stuff is a bit different. Their guns also suffer from poor ammo conservability, so it's not uncommon to see privates running with ammo boxes on their backs.
+
+* Snake Eaters. ![Borecon](../assets/forecon.png)
+
+The green mean recon machines, FORECON squad. They operate in smaller numbers - 7 infantrymen, no overwatch support - mostly performing reconnaisance missions. They make do with less and have a strong aversion to helmets.
+
 ## [https://discord.gg/pve-cmss13](https://discord.gg/pve-cmss13)
