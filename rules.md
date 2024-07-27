@@ -363,12 +363,14 @@ These are some example roles that are unlikely to be punished for not fufilling 
 
 # Rule 9: Character names
 
-Use a reasonable, unique, lore-friendly character name that has a first name and surname. Short reasonable nicknames are allowed inside the name (e.g. Derek 'Double-D' Donahue, Jane 'Crusher' Sanchez). Other character names should not be used, this includes ckeys. You may be a sibling or cousin of another player's character, however you cannot play another player's character unless it's part of a staff event. Names and nicknames should not be considered a meme. Names and nicknames should also not be slurs, 18+ content, etc... Xenomorph prefixes shouldn't be any of these things either. Staff retain rights to make the final judgement if a name or Xenomorph prefix is acceptable or unacceptable.
+Use a reasonable, unique, lore-friendly character name that has a first name and surname. Short reasonable nicknames are allowed inside the name (e.g. Derek 'Double-D' Donahue, Jane 'Crusher' Sanchez). Other character names should not be used, this includes ckeys. You may be a sibling or cousin of another player's character, however you cannot play another player's character unless it's part of a staff event. Staff retain the right to make the final judgement if a name or Xenomorph prefix is acceptable or unacceptable.
 
 - Ranked, titled, honorific, offensive, famous and pop-culture names are not allowed
 - Roman numerals may be used, but should not be excessive.
 - Nicknames should not be written in all Caps Lock
 - Nicknames should at the maximum contain two words.
+- Names and nicknames should not be considered a meme, be slurs, contain 18+ content, etcetra.
+    - Xenomorph prefixes must adhere to these rules too.
 
 ## Acceptable names
 
