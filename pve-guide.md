@@ -147,7 +147,7 @@ This is our platoon’s jump point.
 
 ![Golden arrow](../assets/goldenarrow.png)
 
-# These other guys
+# These other guys ![USCM](../assets/uscm.png)
 
 Some people say that command is concerned with other forces operating in our sector. Here's what I heard...
 
