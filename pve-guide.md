@@ -132,7 +132,7 @@ The ‘bake-a-flake’. It’s got an automatic function, so spray and pray if y
 
 Your guardian angel. We only get 2 drums of 500 10x28mm per unit. Upgraded sensory package, fire control system, and modified feeding system. That means it acquires targets a second faster, four times the rate of fire, and a two shot burst. Goddamn… 
 
-* ![USCM](../assets/m41a.png) **M4RA-R2** <small>Oh god! Corpsman has IB!</small>
+* ![USCM](../assets/m4ra.png) **M4RA-R2** <small>Oh god! Corpsman has IB!</small>
 
 The M4RA-R2, loved by some, hated by your corpsman. This baby’ll go through just about any armor or wall you throw at it, Marines included. Got some fancy pants depleted uranium rounds, thankfully the corpsman says it's not radioactive, just highly toxic! The corps barely made any of these bastards so we only get one, gunny likes to issue it but if you take it I'm sure they won't mind
 
