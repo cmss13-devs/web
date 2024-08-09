@@ -159,4 +159,4 @@ The UPP guys, Space Operating Forces, Naval Infantry platoon. Their doctrines ar
 
 The green mean recon machines, FORECON squad. They operate in smaller numbers - 7 infantrymen, no overwatch support - mostly performing reconnaisance missions. They make do with less and have a strong aversion to helmets.
 
-## [https://discord.gg/pve-cmss13](https://discord.gg/pve-cmss13)
+## [Join the Discord](https://discord.gg/v6P6wns5dN)
