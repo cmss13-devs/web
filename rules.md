@@ -147,8 +147,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 ### Language
 
 - Xeno hivemind is an English translation of their thoughts, so words such as “hydro” or “shuttle” are acceptable. Referring to in-character mechanics such as "Evolution" and "Plasma" for example, is okay. Gameplay mechanics such as "New Xeno update." should be used in LOOC chat.
-- Spamming "Reeeee" and similar such behaviour is not permitted.
-    - Replacing the first letter of a word with "X" or similar iis not permitted.
+- Spamming "Reeeee" and similar behaviour is not permitted.
+    - Replacing the first letter of a word with "X" or similar is not permitted.
 
 ### Marines
 
