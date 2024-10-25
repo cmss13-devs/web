@@ -291,6 +291,7 @@ Not Metagaming:
 
 Examples of Metagaming: 
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
+  - The hive, queen, tier three xenos, or large coordinated masses of xenos should not be in nearby areas around the dropship landing pad. Generally, this will be enforced until 10-15 minutes after drop.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
 - Xenos walling in marine or xeno bodies with the primary purpose being to prevent recovery.
 - Killing, or otherwise denying capture of, monkeys/neaera/ETC. as survivor before marines land.
