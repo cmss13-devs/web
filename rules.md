@@ -153,7 +153,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - Due to the Hivemind, xenos know everything every xeno learns and know the basics of human equipment.
 - At the start of the round, the Xenos can sense the human's ship looming above their hive and are aware that human forces will be visiting the colony shortly.
-- They do not know any individual human's name, but they may know the role they fulfil.
+- Xenomorphs do not know any individual human's name, but they may know the role they fulfil.
 
 ### Larva
 
