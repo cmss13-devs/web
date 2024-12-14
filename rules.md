@@ -63,9 +63,11 @@ The below are guidelines for reference, and it is highly recommended not to stra
 
 CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copypaste spam IC) are not acceptable. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died or fled the ship in the past. Follow the Roleplay Standards.
 
-Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room.), are not tolerated.
-
 ## Human Roleplay Standards
+
+### Major Shenanigans
+
+- Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room, pushing someone out of the dropship during flight.), are not tolerated.
 
 ### Dropship Arrests & Riots 
 
@@ -103,14 +105,14 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 - Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the [Synthetic Programming and Guidelines](https://forum.cm-ss13.com/t/synthetic-programming-and-guidelines). 
 - Synthetic Survivors have altered Programming which can also be found there. 
-- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
+- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on Discord or through Player Reports.
 
 ### Survivors
 
-- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
+- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the Xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. This is not reason enough for Survivors to ignore Rule 10. 
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
-- Survivors should not be rushing to attack the hive before the roundstart xenos have had a chance to evolve.
+- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve. Larvas can evolve after approximately 60 seconds from roundstart.
  
 ### Command
 
@@ -127,7 +129,8 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Language
 
-- Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
+- Using non-standard unicode is forbidden, this extends to the use of emojis, symbols and all other forms such as text emojis like ":), :(, :D, xD" regardless if done through /me, through announcements or as a label on an object.
+   - Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
 
 ### Aliens & Predators
 
@@ -151,27 +154,27 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 
 ### Marines
 
-- Due to the Hivemind, xenos know everything every xeno learns and know the basics of human equipment.
+- Due to the Hivemind, Xenomorphs know everything every Xenomorph learns and know the basics of human equipment.
 - At the start of the round, the Xenos can sense the human's ship looming above their hive and are aware that human forces will be visiting the colony shortly.
-- They do not know any individual human's name, but they may know the role they fulfil.
+- Xenomorphs do not know any individual human's name, but they may know the role they fulfil.
 
 ### Larva
 
 - Larva should remain within the Hive and avoid the frontlines, this is especially the case for roundstart larva.
-    - Marines about to reach the hive core with insufficient xenos defending the hive or Queen about to start hijack are legitimate reasons to leave the hive as larva.
+    - Marines about to reach the hive core with insufficient Xenomorphs defending the hive or Queen about to start hijack are legitimate reasons to leave the hive as larva.
 - Larva should not be sneaking onto the dropship to head up to the Almayer.
 - Larva are not recon castes, and should not be seeking out survivors.
 
 ### Queen
 
 - The Queen can banish Xenos who fail to uphold these standards and expectations - banish cannot be used as a joke.
-- The Queen cannot use banish for clear mechanical advantage - such as banishing xenos that are in containment, in order to reclaim larva.
+- The Queen cannot use banish for clear mechanical advantage - such as banishing Xenomorphs that are in containment, in order to reclaim larva.
 - The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfil this criteria.
-    - The Queen may not force xenos into a specific caste or strain, and cannot banish them if they refuse.
+    - The Queen may not force Xenomorphs into a specific caste or strain, and cannot banish them if they refuse.
 
 ### Shipside Xenomorphs
 
-- While shipside xenomorphs can do almost everything they like once they get shipside they aren't allowed to attack people who just got out of cryo and are getting their gear.
+- While shipside Xenomorphs can do almost everything they like once they get shipside they aren't allowed to attack people who just got out of cryo and are getting their gear.
     - This restriction doesnt apply post-hijack.
 - Xenomorphs should not be rushing to get onto the dropship before second drop.
 
@@ -188,7 +191,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 The general behavioural expectations for members of the community. Unless explicitly stated these rules apply to all areas of the community.
 - Don't be a dick.
 - Don't joke about OOC threats or make any threats in that respect.
-- Use common sense to determine if something is acceptable or not, if unsure ahelp or ask in #staff-help channel on discord.
+- Use common sense to determine if something is acceptable or not, if unsure ahelp or ask in #staff-help channel on Discord.
 - This is not a complete list and only includes the most important elements.
 
 ## English Only
@@ -271,8 +274,8 @@ Not Exploits:
 - Using fuel tanks as explosive traps by acid spitting.
 
 Examples of Exploits:
-- Banishing xenos on the Almayer so they can be killed for free larva.
-- Banishing AFK xenos to reclaim larva.
+- Banishing Xenomorphs on the Almayer so they can be killed for free larva.
+- Banishing AFK Xenomorphs to reclaim larva.
 - Placing Acid traps so they can be triggered from behind walls.
 
 ---
@@ -286,17 +289,17 @@ Acting upon knowledge your character would not have or providing unknowable info
 Not Metagaming:
 - Xenos destroying colony assets prior to Marine landing, such as APCs, lights, vendors, etc.
 - Xenos & Marines building traps to catch and kill the other side.
-- Shipside xenos attacking critical equipment like the tcomms or OB APCs.
+- Shipside Xenomorphs attacking critical equipment like the tcomms or OB APCs.
 - Marines killing themselves after becoming infected or captured by the Xenos.
 
 Examples of Metagaming: 
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
 - Xenos melting every colony wall in a specific location to remove a building/defensive point.
-- Xenos walling in marine or xeno bodies with the primary purpose being to prevent recovery.
+- Xenos walling in marine or Xenomorph bodies with the primary purpose being to prevent recovery.
 - Killing, or otherwise denying capture of, monkeys/neaera/ETC. as survivor before marines land.
     - This is a rulebreak because of the disproportionate impact this has on roundstart balance.
 - Surrounding a comms tower entirely with reinforced walls to prevent Xenos attacking it without T3s.
-    - Walls can be used to cover most of the tower, however there must remain access for other xenos IE barricades.
+    - Walls can be used to cover most of the tower, however there must remain access for other Xenomorphs IE barricades.
 
 ## Metacommunication
 
