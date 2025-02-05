@@ -496,6 +496,7 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
     - Staff reserve the right to grant or deny mutinies, and to decide if the reason given is sufficient.
 - Regular mutinies cannot occur during hijack, and any ongoing mutiny must be ended upon hijack.
 - Only the Acting Commander can be mutinied against for their decisions, actions, or inactions. They must be given a chance to stand down peacefully.
+    - If the mutiny is successful, the next person in line would take command.
 - During the mutiny attacking any uninvolved, medical or surrendered personnel is strictly forbidden, as is intentionally perma-killing anyone involved.
     - Once you have picked a side, it is permanent. No flip flopping.
     - Additionally, if you have surrendered during a mutiny you cannot restart hostilities and must follow regular escalation rules again.
