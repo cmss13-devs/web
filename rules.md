@@ -137,7 +137,7 @@ CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic 
 - Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. 
   - They **do not** know there are Xenos on the colony. 
   - They do not know any individual Xeno's prefix or postfix - they can, at most, identify the caste.
-- Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
+- Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic are acceptable. Avoid meme/gaming terminology such as "maicers" or "preds"
 
 ## Xeno Roleplay Standards
 
