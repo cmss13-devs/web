@@ -146,7 +146,7 @@ CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic 
 - Aliens have no free will. They are a hivemind, and their purpose is to enforce the will of the Queen and expand the Hive.
 - They are not friendly, and will not negotiate.
   - Corrupted Hive can be either hostile or ally with USCM or any factions, at the wishes of Corrupted Queen. If the Corrupted Queen wants to be ally with a faction, other Corrupted Xenomorphs must obey.
-  - Alternative Hives such as Alpha, Bravo, Charlie, and Delta must be hostile to any factions, including the Main Hive, at all costs.
+  - Alternative Hives such as Alpha, Bravo, Charlie, and Delta must be hostile to any factions, including the Main Hive, at all costs. (With the exception of events dictating otherwise.)
   - Xenomorphs are not obligated to destroy synthetic lifeforms, and can ignore them at the wishes of the Queen.
 
 ### Language
