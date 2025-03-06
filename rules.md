@@ -253,7 +253,7 @@ Example of when not to permakill:
 - A hostile survivor has been killed at the FOB. Players should not go out of their way to willfully deny aid, or outright put them in a permanently dead state.
 
 Example of when it may be okay to permakill/neglect a dead player:
-- You are in the backlines across the map from the FOB with your marines buddies. A hostile survivor has just killed two of your friends, and you have killed the hostile. In this instance it would be okay to neglect treating the hostile player. Leaving them behind would also be acceptable.
+- You are in the backlines across the map from the FOB with your marine buddies. A hostile survivor has just killed two of your friends, and you have killed the hostile. In this instance it would be okay to neglect treating the hostile player. Leaving them behind would also be acceptable.
 
 ---
 
