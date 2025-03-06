@@ -247,6 +247,7 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 ## Permakilling
 
 - Beyond banishments, battlefield executions, and neglect: players should refrain from permanently killing revivable players. 
+    - Antagonistic factions/roles such as xenos and predators are exempt from this rule.
 
 Example of when not to permakill:
 - A hostile survivor has been killed at the FOB. Players should not go out of their way to willfully deny aid, or outright put them in a permanently dead state.
