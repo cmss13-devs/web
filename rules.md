@@ -240,7 +240,7 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 
 ## Permanent Removal
 
-- Permanently removing a player from the round by using brute force is considered as griefing, even if they are belong to a hostile faction. 
+- Permanently removing a player from the round by using brute force, or preventing them from being treated, is considered as griefing, even if they belong to a hostile faction. 
 - Example to above could be shooting a revivable player's corpse until you rip their head off.
 - Queen's Banishment, Battlefield Executions, Authorized Executions and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
 
