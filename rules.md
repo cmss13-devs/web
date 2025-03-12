@@ -238,6 +238,13 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 - Shooting up medbay at round start.
 - Deliberately OBing the marine frontline.
 
+## Permanent Removal
+
+- Permanently removing a player from the round by using brute force, or preventing them from being treated, is considered as griefing, even if they belong to a hostile faction. 
+- It is not considered griefing to ignore dead hostiles, only to take action to prevent them being treated.
+- Example to above could be shooting a revivable player's corpse until you rip their head off.
+- Queen's Banishment, Battlefield Executions, Authorized Executions and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
+
 ## End of Round Grief (EORG)
 
 - End of Round Grief (EORG) is fighting and generating combat logs with friendly players after the round ends and may yield an immediate 3-hour ban without warning. Exceptions are between normal enemies, such as Marines and Aliens, Marines and UPP, etc.
