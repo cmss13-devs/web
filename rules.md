@@ -361,7 +361,7 @@ These are some example roles that are likely to be punished for not fufilling yo
 
 These are some example roles that might be punished for not fufilling your role or logging out/ghosting without notice.
 
-- Requisitions Officer
+- Quartermaster
 - Cargo Technician
 - Doctor
 - Tier 3 Xenomorph
