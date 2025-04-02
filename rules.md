@@ -138,7 +138,7 @@ CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic 
   - They **do not** know there are Xenos on the colony. 
   - They do not know any individual Xeno's prefix or postfix - they can, at most, identify the caste.
 - Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation.
-- Nicknames such as "Maicers", "Preds", "Jamaicans" and any other name that would violate one or more of Rules 2, 3 and 9 are not permitted. In case of violation of this rule, punishments may be applied as specified in Rules 2, 3 and/or 9, depending on the situation.
+- Nicknames such as "Maicers", "Preds", "Jamaicans" and any other name that would violate one or more of Rules 2, 3 and 9 are not permitted. In case of violation of this rule, punishments may be applied as specified in Rules 2, 3 and 9, depending on the situation.
 
 ## Xeno Roleplay Standards
 
