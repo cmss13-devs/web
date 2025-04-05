@@ -65,7 +65,7 @@ CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic 
 
 ## Timeline
 
-The CM-SS13 Universe diverges from the events of real life in 1975. The exception to this is the Vietnam War, which did not happen in the CM-SS13 Universe. References to events/people/popular culture/etc after 1975 should be avoided. For example, it is fine for a character to know about World War 2, but not the Iraq War. The Internet as we know it today did not happen in the CM-SS13 Universe, and references to it should be avoided. Staff reserve the right to make things after 1975 part of the lore as needed, such as for events.
+The CM-SS13 Universe diverges from the events of real life in 1975. References to events/people/popular culture/etc after 1975 should be avoided. For example, it is fine for a character to know about World War 2, but not the Iraq War. The Internet as we know it today did not happen in the CM-SS13 Universe, and references to it should be avoided. Staff reserve the right to make things after 1975 part of the lore as needed, such as for events.
 
 ## Human Roleplay Standards
 
