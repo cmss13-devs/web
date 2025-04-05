@@ -63,6 +63,10 @@ The below are guidelines for reference, and it is highly recommended not to stra
 
 CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copypaste spam IC) are not acceptable. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died or fled the ship in the past. Follow the Roleplay Standards.
 
+## Timeline
+
+The CM-SS13 Universe diverges from the events of real life in 1975. The exception to this is the Vietnam War, which did not happen in the CM-SS13 Universe. References to events/people/popular culture/etc after 1975 should be avoided. For example, it is fine for a character to know about World War 2, but not the Iraq War. The Internet as we know it today did not happen in the CM-SS13 Universe, and references to it should be avoided. Staff reserve the right to make things after 1975 part of the lore as needed, such as for events.
+
 ## Human Roleplay Standards
 
 ### Major Shenanigans
