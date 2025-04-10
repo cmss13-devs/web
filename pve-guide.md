@@ -140,9 +140,9 @@ Your guardian angel. We only get 2 drums of 500 10x28mm per unit. Upgraded senso
 
 The M49A6, loved by some, hated by your corpsman. This baby’ll go through just about any armor or wall you throw at it, Marines included. Got some fancy pants depleted uranium rounds, thankfully the corpsman says it's not radioactive, just highly toxic! The corps barely made any of these bastards so we only get one, gunny likes to issue it but if you take it I'm sure they won't mind.
 
-* ![USCM](../assets/grenades.png) **Grenades** <small>Pop cap, press button, throw at the enemy... Or your LT.</small>
+* ![USCM](../assets/grenades.png) **Grenades** <small>...then thou shalt count to three, no more, no less...</small>
 
-There's a few varieties of these bad boys aboard; from the M40 HEDP, the M72A2 illumination rounds, to the non-lethal M47 HSDP smoke grenades. The HEDP & smoke grenades can be primed in-hand and thrown like the old kind of frag, but they also work in the underbarrel grenade launchers. Just be careful, when you thump one out from a launcher it'll detonate on impact, and these suckers don't have a minimum arming distance...
+There's a few varieties of these bad boys aboard; mainly the M40 HEDP, the M72A2 illumination rounds, and the M47 HSDP smoke grenades. The M40 & M47 can be primed and thrown, but also load in the underbarrel grenade launchers. Launcher-fired rounds explode on impact; hand-tossed ones take a few seconds. Just be careful, these suckers don't have a minimum arming distance...
 
 
 You’ll find all of this stuff in the squad prep bay, both squads get issued one of each of the special shit in the armory just east of the prep bay. Additional gear includes M314 motion detectors and a box of M40 HEDPs per squad. Ammos in the crates, break 'em open with a crowbar. Just make sure you aren't stealing the other squad's stuff unless you ask first."
