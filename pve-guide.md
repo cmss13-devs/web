@@ -49,7 +49,7 @@ Lead, you’re my boss. 3 guys under you, a smartgunner and two riflemen. Keep u
 
 * ![USCM](../assets/smartgunner.png) **Smartgunner** (Corporal or Lance Corporal) [2 SLOTS]
 
-That’s me. And you. We get a smartgun, it’s in a locker in prep. Btn still hasn't figured out how to fix our goggles and doesn’t give us belts with plenty of pouches for drums. Remember to stick to the squad lead.
+That’s me. And you. We get a smartgun, it’s in a locker in prep. Batallion still hasn't figured out how to fix our goggles and doesn’t give us belts with plenty of pouches for drums. Remember to stick to the squad lead.
 
 * ![USCM](../assets/rifleman.png) **Rifleman** (Private First Class or Private) [4 SLOTS]
 
@@ -103,7 +103,7 @@ Running and gunning with the old MK1s makes for less accuracy. Sure, if you’re
 Sure, you can have some wiggle room, but don’t do the dance of death.
 You’ll get shot or fuck someone over if you move too much.
 
-Charging is stupid. You’ll shoot each other because the bugs are between you and you ran through someone’s line of fire, you’ll move while shrapnel cuts up your insides, and so on. Hunker down n’ weather it out. But, if the situation gets desperate? Better get moving.
+Charging is stupid. You’ll shoot each other because the idiot is now between you and the bugs. Congratulations, idiot! You ran through someone’s line of fire, now you're moving whilst shrapnel cuts up your insides, and so on. Hunker down n’ weather it out. But, if the situation gets desperate? Better get moving.
 
 ![A movie](../assets/amove.png) 
 
@@ -118,7 +118,7 @@ Workhorse rifle of the Colonial Marines. Soon to be phased out in favor of the M
 * ![USCM](../assets/smartgun.png) **M56A2 Smartgun** <small>Oh my god, who touched Sasha? WHO TOUCHED MY GUN?!
 </small>
 
-Squad support weapon. M250 10x28mm rounds, so hits harder than the M41, but burns through your ammo with a much faster cyclic rate of fire and rounds that are miles better than the 2/4’s M56 smartguns. IFF stops ya if there's a marine in your sights, but ya can’t cause friendly fire. Better also have someone help carry your spare rounds, each gunner gets a box of loose rounds to reload their drums from.
+Squad support weapon. Typical ammo are the M250 10x28mm rounds, so it hits harder than the M41, but burns through the ammo thanks to a much faster cyclic rate of fire. These rounds are miles better than the 2/4’s M56 smartguns get saddled with. IFF stops ya if there's a marine in your sights, but ya can’t cause friendly fire. Better also have someone help carry your spare rounds, each gunner gets a box of loose rounds to reload their drums from.
 
 * ![USCM](../assets/shotgun_new.png) **M120 Tactical Shotgun** <small>Knock knock, open up the door.</small>
 
