@@ -118,9 +118,9 @@ Workhorse rifle of the Colonial Marines. Soon to be phased out in favor of the M
 * ![USCM](../assets/smartgun.png) **M56A2 Smartgun** <small>Oh my god, who touched Sasha? WHO TOUCHED MY GUN?!
 </small>
 
-Squad support weapon. Typical ammo are the M250 10x28mm rounds, so it hits harder than the M41, but burns through the ammo thanks to a much faster cyclic rate of fire. These rounds are miles better than the 2/4’s M56 smartguns get saddled with. IFF stops ya if there's a marine in your sights, but ya can’t cause friendly fire. Better also have someone help carry your spare rounds, each gunner gets a box of loose rounds to reload their drums from.
+Squad support weapon. Typical ammo are the M250 10x28mm rounds, so it hits harder than the M41, but burns through the ammo thanks to a much faster cyclic rate of fire. These rounds are miles better than those the 2/4’s M56 smartguns get saddled with. IFF stops ya if there's a marine in your sights, but ya can’t cause friendly fire. Better also have someone help carry your spare rounds, each gunner gets a box of loose rounds to reload their drums from.
 
-* ![USCM](../assets/shotgun_new.png) **M120 Tactical Shotgun** <small>Knock knock, open up the door.</small>
+* ![USCM](../assets/newshotty.png) **M120 Tactical Shotgun** <small>Knock knock, open up the door.</small>
 
 “Close-in weapons system” - it’s a shotgun. Six in the tube, one in the chamber. Fires as fast as the action cycles. Comes with a baby grenade launcher, holds less than the 41's PN 30mm. Neat little one-trick pony.
 
