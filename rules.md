@@ -482,6 +482,7 @@ You are not held by Lethal Force rules so long as **all** of the following condi
 - You have not changed into a uniform which obscures your allegiance.
 - You have remained "consistently hostile" to USCM forces.
   - Being in a situation that limits you from being consistently hostile, for a prolonged period of time stops you from continuing hostilies.
+    - Only exception is the continued attempt to resist arrest and consistent non-compliance while in custody.
 
 "Consistently hostile" is defined as a state in which you are actively engaging or are being engaged **militarily** by USCM forces as a known target. Engaging in subterfuge (such as sneaking into the FOB, Alamo, Almayer, etc.) does not sufficiently meet the standards to be considered "consistently hostile," as your intentions could be misconstrued by USCM forces. "Consistently hostile" should be considered from the perspective of server culture, rather than relying solely on common sense, and it is subject to interpretation by staff. If you have questions regarding which actions are acceptable to continue bypassing lethal force rules, please ask a staff member.
 
