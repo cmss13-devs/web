@@ -334,7 +334,7 @@ Examples of Metacommunication:
 Logging in with different accounts at different times, logging in with another account because you died (or were banned), or logging into two separate accounts at the same time. If you have multiple accounts tied to CM-SS13, please ahelp regarding them. Players caught breaking this rule may receive permabans from the server.
 
 ### Can I use a VPN?
-No, you cannot use a VPN. If you have a special reason for using a VPN, you may apply [here](https://forum.cm-ss13.com/new-message?groupname=z_managers&title=VPN%20Application&body=%23%23%20Ckey%20requesting%20VPN%20whitelist%0A%0D%0A%0D%0A%0D%23%23%20Reason%20for%20VPN%20whitelist%0A%0D).
+No, you cannot use a VPN. If you have a special reason for using a VPN, you may apply [here](https://forum.cm-ss13.com/w/vpn_whitelist).
 
 ### Can other people play at my house?
 Yes, but please ahelp beforehand so staff are aware and can make a note of it. Your account is held responsible if someone other than you physically plays on your account and violates any of our rules. "My little brother did it, or my friend did it." are not valid excuses or justification.
