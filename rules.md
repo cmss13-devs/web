@@ -362,6 +362,7 @@ These are some example roles that are likely to be punished for not fufilling yo
 - Squad Leader
 - Squad Specialist
 - Queen
+- ERT Roles
 
 ### Medium Risk Roles
 
