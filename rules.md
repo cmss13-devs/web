@@ -116,7 +116,8 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 - Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the Xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. This is not reason enough for Survivors to ignore Rule 10. 
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
-- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve. Larvas can evolve after approximately 60 seconds from roundstart.
+- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve.
+  - There is a grace period of 2 minutes after roundstart before you may kill roundstart Larva; they need 60 seconds before they get a chance to evolve.
  
 ### Command
 
