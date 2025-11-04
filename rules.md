@@ -94,9 +94,9 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
     - Command staff should not typically be deploying without permission, excluding nuclear protocol.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
 - Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
-    -Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
-    -Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
-    -The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
+    - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
+    - Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
+    - The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
 
 ### Ship Modifications 
 
@@ -483,7 +483,7 @@ You are not held by Lethal Force rules so long as **all** of the following condi
 - You have not willingly accepted medical aid from the USCM.
 - You have not changed into a uniform which obscures your allegiance.
 - You have remained "consistently hostile" to USCM forces.
-  - Being in a situation that limits you from being consistently hostile, for a prolonged period of time stops you from continuing hostilies.
+  - Being in a situation that limits you from being consistently hostile, for a prolonged period of time stops you from continuing hostilities.
     - Only exception is the continued attempt to resist arrest and consistent non-compliance while in custody.
 
 "Consistently hostile" is defined as a state in which you are actively engaging or are being engaged **militarily** by USCM forces as a known target. Engaging in subterfuge (such as sneaking into the FOB, Alamo, Almayer, etc.) does not sufficiently meet the standards to be considered "consistently hostile," as your intentions could be misconstrued by USCM forces. "Consistently hostile" should be considered from the perspective of server culture, rather than relying solely on common sense, and it is subject to interpretation by staff. If you have questions regarding which actions are acceptable to continue bypassing lethal force rules, please ask a staff member.
