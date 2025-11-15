@@ -308,6 +308,7 @@ Not Metagaming:
 - Xenos & Marines building traps to catch and kill the other side.
 - Shipside Xenomorphs attacking critical equipment like the tcomms or OB APCs.
 - Marines killing themselves after becoming infected or captured by the Xenos.
+- Xenos walling in infected Yautja bodies with the primary purpose being to prevent recovery.
 
 Examples of Metagaming: 
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
