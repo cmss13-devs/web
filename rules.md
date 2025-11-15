@@ -250,7 +250,8 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 - Permanently removing a player from the round by using brute force, or preventing them from being treated, is considered as griefing, even if they belong to a hostile faction. 
 - It is not considered griefing to ignore dead hostiles, only to take action to prevent them being treated.
 - Example to above could be shooting a revivable player's corpse until you rip their head off.
-- Queen's Banishment, Battlefield Executions, Authorized Executions and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
+- Queen's Banishment, Battlefield Executions, Authorized Executions, and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
+- Whitelisted Yautja players, by the nature of being antagonists, may permanently remove Marines and Xenos from the round. Yautja Council and Staff can review situations that may go against [the spirit of the whitelist](https://forum.cm-ss13.com/t/predator-honor-code/575) and take action if necessary.
 
 ## End of Round Grief (EORG)
 
