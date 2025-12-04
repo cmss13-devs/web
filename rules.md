@@ -216,8 +216,9 @@ The general behavioural expectations for members of the community. Unless explic
 ## Racism and Bigotry
 
 - Usage of slurs IC/OOC on the server will result in a 7 day ban, automatically.
-  -The use of the word "retard" and its derivatives is not allowed. The only exception to this rule is the term "deltard" when used in an appropriate contextual setting. 
+- The use of the word "retard" and its derivatives is not allowed. The only exception to this rule is the term "deltard" when used in an appropriate contextual setting. 
 - Racism of any kind is strictly forbidden and will not be tolerated.
+- This extends to referring to Yautja/Predators as Jamaicans, etc. 
 - Being homophobic, sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
 - BYOND ckey/usernames that are deemed racist, homophobic, sexist, etc... by staff are not permitted. You will be given a chance to create a new CKEY and you must request our staff to transfer any notes.
 
