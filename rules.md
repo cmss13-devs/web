@@ -88,6 +88,7 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 ### Deployment 
 
 - All personnel deployed should be following their role requirements. A Medic would not only be healing themselves, a Specialist is expected to take and use their equipment and a Squad Leader would not ignore the orders of command just to do their own thing.
+    - A specialist using their equipment is defined as using their primary component. With the exception of the Scout, who's primary component is their cloak, this is generally defined as using their specialist weapon.
 - Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and FTL) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
     - Command staff (SO/XO/CO) should be deploying for command purposes and not to be a "special" rifleman.
