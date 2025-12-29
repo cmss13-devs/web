@@ -7,7 +7,8 @@
     <meta property="og:type" content="website">
     <meta property="og:description"
         content="CM-SS13 is a strategic roleplay-based team deathmatch game, based on Space Station 13.">
-    <meta name="description" content="CM-SS13 is a strategic roleplay-based team deathmatch game, based on Space Station 13.">
+    <meta name="description"
+        content="CM-SS13 is a strategic roleplay-based team deathmatch game, based on Space Station 13.">
     <meta property="og:image" content="{{ site.url }}/logo.png">
     <meta property="og:sitename" content="{{ site.url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,6 +22,58 @@
     <link href="{{ site.url }}/assets/stylesheet.css" rel="stylesheet">
     <link href="{{ site.url }}/assets/lightspeed.css" rel="stylesheet">
     <title>CM-SS13 - Home</title>
+
+    <script>
+        fetch("https://db.cm-ss13.com/api/Round").then((value) => value.json().then((json) => {
+            const display_element = document.getElementById("server_info");
+
+            const data = json.data;
+            const gamestates = ["Startup", "Pre-game", "Setting up", "Playing", "Finished"];
+            const gamestate = gamestates[data.gamestate] || "Unknown";
+
+            const totalSeconds = Math.floor(data.round_duration / 10);
+            const hours = Math.floor(totalSeconds / 3600);
+            const minutes = Math.floor((totalSeconds % 3600) / 60);
+            const seconds = totalSeconds % 60;
+            const duration = `${hours}h ${minutes}m ${seconds}s`;
+
+            display_element.innerHTML = `
+                <div class="card bg-dark text-white border border-secondary">
+                    <div class="card-header text-center border-bottom border-secondary">
+                        <h5 class="mb-0"><i class="fa fa-server me-2"></i>Server Status</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row text-center">
+                            <div class="col">
+                                <div class="text-white-50 small">Mode</div>
+                                <div class="fw-bold">${data.mode}</div>
+                            </div>
+                            <div class="col">
+                                <div class="text-white-50 small">Round</div>
+                                <div class="fw-bold">${data.round_id}</div>
+                            </div>
+                            <div class="col">
+                                <div class="text-white-50 small">Players</div>
+                                <div class="fw-bold">${data.players}</div>
+                            </div>
+                            <div class="col">
+                                <div class="text-white-50 small">Map</div>
+                                <div class="fw-bold">${data.map_name}</div>
+                            </div>
+                            <div class="col">
+                                <div class="text-white-50 small">Duration</div>
+                                <div class="fw-bold">${duration}</div>
+                            </div>
+                            <div class="col">
+                                <div class="text-white-50 small">Status</div>
+                                <div class="fw-bold">${gamestate}</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }))
+    </script>
 </head>
 
 <body>
@@ -34,16 +87,17 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark border-bottom bordered-blue background-black">
             <div class="navbar-nav collapse navbar-collapse">
                 <div class="container-fluid d-flex justify-content-evenly">
-                <a class="nav-item nav-link" href="{{ site.play_link }}"><i class="fa fa-gamepad"></i>Play Now</a>
-                <a class="nav-item nav-link" href="{{ site.rules_link }}"><i class="fa fa-bars"></i>Rules</a>
-                <a class="nav-item nav-link" href="{{ site.status_link }}"><i class="fa fa-server"></i>Status</a>
-                <a class="nav-item nav-link" href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a>
-                <a class="nav-item nav-link" href="{{ site.forums_link }}"><i
-                        class="fa-brands fa-discourse"></i>Forums</a>
-                <a class="nav-item nav-link" href="{{ site.discord_link }}"><i
-                        class="fa-brands fa-discord"></i>Discord</a>
-                <a class="nav-item nav-link" href="{{ site.github_link }}"><i class="fa-brands fa-github"></i>GitHub</a>
-            </div>
+                    <a class="nav-item nav-link" href="{{ site.play_link }}"><i class="fa fa-gamepad"></i>Play Now</a>
+                    <a class="nav-item nav-link" href="{{ site.rules_link }}"><i class="fa fa-bars"></i>Rules</a>
+                    <a class="nav-item nav-link" href="{{ site.status_link }}"><i class="fa fa-server"></i>Status</a>
+                    <a class="nav-item nav-link" href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a>
+                    <a class="nav-item nav-link" href="{{ site.forums_link }}"><i
+                            class="fa-brands fa-discourse"></i>Forums</a>
+                    <a class="nav-item nav-link" href="{{ site.discord_link }}"><i
+                            class="fa-brands fa-discord"></i>Discord</a>
+                    <a class="nav-item nav-link" href="{{ site.github_link }}"><i
+                            class="fa-brands fa-github"></i>GitHub</a>
+                </div>
             </div>
         </nav>
 
@@ -51,58 +105,64 @@
             <img src="{{ site.url }}/assets/logo.png" alt="Logo" width="250px" height="90px" />
 
             <div class="z-3 container-fluid bg-dark border-top bordered-blue background-black">
-            <div class="row mb-3">
-                <div class="col text-center">
+                <div class="row mb-3">
+                    <div class="col text-center">
 
-                    <p>
-                    <h1>What is CM-SS13?</h1>
-                    CM-SS13 is a game based on Space Station 13, made in BYOND.
-                    Check out our <a href="{{ site.wiki_link }}/Quickstart_Guide">Quickstart Guide</a> if you're new to
-                    CM.
-                    </p>
-                    <p>
-                        CM-SS13 has wildly adapted the SS13 model into a strategic roleplay-based team deathmatch game.
-                    </p>
+                        <p>
+                        <h1>What is CM-SS13?</h1>
+                        CM-SS13 is a game based on Space Station 13, made in BYOND.
+                        Check out our <a href="{{ site.wiki_link }}/Quickstart_Guide">Quickstart Guide</a> if you're new
+                        to
+                        CM.
+                        </p>
+                        <p>
+                            CM-SS13 has wildly adapted the SS13 model into a strategic roleplay-based team deathmatch
+                            game.
+                        </p>
+                    </div>
+                    <div id="server_info" class="mt-3"></div>
+                </div>
+                <div class="row">
+                    <div class="col text-center">
+
+                        <h2><a href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a></h2>
+                        <p>CM-SS13 is a very complex game, with a depth of features and complexity of interwoven systems
+                            that
+                            can take a long time to get your head around. Our wiki contains guides, stats and all
+                            information
+                            you need to get to grips with CM.</p>
+                    </div>
+                    <div class="col text-center">
+
+                        <h3><a href="{{ site.forums_link }}"><i class="fa-brands fa-discourse"></i>Forums</a></h3>
+                        <p>Our forums are where we get most of our feedback, suggestions and wherever a longer-form
+                            conversation
+                            needs to take place. It's also where we handle appeals, whitelists and reports.</p>
+                        <h3><a href="{{ site.discord_link }}"><i class="fa-brands fa-discord"></i>Discord</a></h3>
+                        <p>Our Discord is a more informal space, for discussion of the previous round, contributing to
+                            the
+                            game,
+                            or just general chitchat.</p>
+                    </div>
+                    <div class="col text-center">
+                        <h2><a href="{{ site.github_link }}"><i class="fa-brands fa-github"></i>GitHub</a></h2>
+                        <p>CM, as an extension of SS13, is an open source game, so anyone is able to contribute directly
+                            to
+                            our
+                            game. Managed by our volunteer Maintainers, we accept Pull Requests of new content on our
+                            GitHub.
+                        </p>
+                        <p>If you're interested in getting started with contributing, check out our <a
+                                href="{{ site.wiki_link }}/Guide_to_Git">Guide to Contributing</a>.</p>
+                    </div>
+
                 </div>
             </div>
-            <div class="row">
-                <div class="col text-center">
-
-                    <h2><a href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a></h2>
-                    <p>CM-SS13 is a very complex game, with a depth of features and complexity of interwoven systems
-                        that
-                        can take a long time to get your head around. Our wiki contains guides, stats and all
-                        information
-                        you need to get to grips with CM.</p>
-                </div>
-                <div class="col text-center">
-
-                    <h3><a href="{{ site.forums_link }}"><i class="fa-brands fa-discourse"></i>Forums</a></h3>
-                    <p>Our forums are where we get most of our feedback, suggestions and wherever a longer-form
-                        conversation
-                        needs to take place. It's also where we handle appeals, whitelists and reports.</p>
-                    <h3><a href="{{ site.discord_link }}"><i class="fa-brands fa-discord"></i>Discord</a></h3>
-                    <p>Our Discord is a more informal space, for discussion of the previous round, contributing to the
-                        game,
-                        or just general chitchat.</p>
-                </div>
-                <div class="col text-center">
-                    <h2><a href="{{ site.github_link }}"><i class="fa-brands fa-github"></i>GitHub</a></h2>
-                    <p>CM, as an extension of SS13, is an open source game, so anyone is able to contribute directly to
-                        our
-                        game. Managed by our volunteer Maintainers, we accept Pull Requests of new content on our
-                        GitHub.
-                    </p>
-                    <p>If you're interested in getting started with contributing, check out our <a
-                            href="{{ site.wiki_link }}/Guide_to_Git">Guide to Contributing</a>.</p>
-                </div>
-
-            </div>
-        </div>
             <footer class="text-center fixed-bottom text-lg-start">
 
                 <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-                    Source available on <a href="{{ site.source_link }}"><i class="fa-brands fa-github"></i>GitHub</a> | <a href="{{ site.url }}/tos">Terms of Service</a>
+                    Source available on <a href="{{ site.source_link }}"><i class="fa-brands fa-github"></i>GitHub</a> |
+                    <a href="{{ site.url }}/tos">Terms of Service</a>
                 </div>
             </footer>
 
