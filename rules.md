@@ -88,15 +88,16 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 ### Deployment 
 
 - All personnel deployed should be following their role requirements. A Medic would not only be healing themselves, a Specialist is expected to take and use their equipment and a Squad Leader would not ignore the orders of command just to do their own thing.
+    - A specialist using their equipment is defined as using their primary component. With the exception of the Scout, who's primary component is their cloak, this is generally defined as using their specialist weapon.
 - Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and FTL) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
     - Command staff (SO/XO/CO) should be deploying for command purposes and not to be a "special" rifleman.
     - Command staff should not typically be deploying without permission, excluding nuclear protocol.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
 - Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
-    -Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
-    -Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
-    -The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
+    - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
+    - Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
+    - The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
 
 ### Ship Modifications 
 
@@ -116,7 +117,8 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 - Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the Xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. This is not reason enough for Survivors to ignore Rule 10. 
 - Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
   - Hostile survivors cannot attempt to harm other survivors.
-- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve. Larvas can evolve after approximately 60 seconds from roundstart.
+- Survivors cannot kill roundstart larvas before the larvas have had a chance to evolve.
+  - There is a grace period of 2 minutes after roundstart before you may kill roundstart Larva; they need 60 seconds before they get a chance to evolve.
  
 ### Command
 
@@ -215,8 +217,9 @@ The general behavioural expectations for members of the community. Unless explic
 ## Racism and Bigotry
 
 - Usage of slurs IC/OOC on the server will result in a 7 day ban, automatically.
-  -The use of the word "retard" and its derivatives is not allowed. The only exception to this rule is the term "deltard" when used in an appropriate contextual setting. 
+- The use of the word "retard" and its derivatives is not allowed. The only exception to this rule is the term "deltard" when used in an appropriate contextual setting. 
 - Racism of any kind is strictly forbidden and will not be tolerated.
+- This extends to referring to Yautja/Predators as Jamaicans, etc. 
 - Being homophobic, sexist or a general bigot is not ok, and action will be taken to rectify such behaviour.
 - BYOND ckey/usernames that are deemed racist, homophobic, sexist, etc... by staff are not permitted. You will be given a chance to create a new CKEY and you must request our staff to transfer any notes.
 
@@ -249,7 +252,8 @@ Griefing is the intent of one player wanting to cause grief or annoyance to othe
 - Permanently removing a player from the round by using brute force, or preventing them from being treated, is considered as griefing, even if they belong to a hostile faction. 
 - It is not considered griefing to ignore dead hostiles, only to take action to prevent them being treated.
 - Example to above could be shooting a revivable player's corpse until you rip their head off.
-- Queen's Banishment, Battlefield Executions, Authorized Executions and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
+- Queen's Banishment, Battlefield Executions, Authorized Executions, and Warrior's ability, are exceptions to this rule and are evaluated on a case-by-case basis.
+- Whitelisted Yautja players, by the nature of being antagonists, may permanently remove Marines and Xenos from the round. Yautja Council and Staff can review situations that may go against [the spirit of the whitelist](https://forum.cm-ss13.com/t/predator-honor-code/575) and take action if necessary.
 
 ## End of Round Grief (EORG)
 
@@ -307,6 +311,7 @@ Not Metagaming:
 - Xenos & Marines building traps to catch and kill the other side.
 - Shipside Xenomorphs attacking critical equipment like the tcomms or OB APCs.
 - Marines killing themselves after becoming infected or captured by the Xenos.
+- Xenos walling in infected Yautja bodies with the primary purpose being to prevent recovery. Walls should only be built enough to cover the Yautja body. Staff may take action on any buildings they consider excessive.
 
 Examples of Metagaming: 
 - Xenos sitting next to the dropship landing pad to attack right as the Marines open the doors.
@@ -483,7 +488,7 @@ You are not held by Lethal Force rules so long as **all** of the following condi
 - You have not willingly accepted medical aid from the USCM.
 - You have not changed into a uniform which obscures your allegiance.
 - You have remained "consistently hostile" to USCM forces.
-  - Being in a situation that limits you from being consistently hostile, for a prolonged period of time stops you from continuing hostilies.
+  - Being in a situation that limits you from being consistently hostile, for a prolonged period of time stops you from continuing hostilities.
     - Only exception is the continued attempt to resist arrest and consistent non-compliance while in custody.
 
 "Consistently hostile" is defined as a state in which you are actively engaging or are being engaged **militarily** by USCM forces as a known target. Engaging in subterfuge (such as sneaking into the FOB, Alamo, Almayer, etc.) does not sufficiently meet the standards to be considered "consistently hostile," as your intentions could be misconstrued by USCM forces. "Consistently hostile" should be considered from the perspective of server culture, rather than relying solely on common sense, and it is subject to interpretation by staff. If you have questions regarding which actions are acceptable to continue bypassing lethal force rules, please ask a staff member.
