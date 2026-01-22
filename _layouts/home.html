@@ -26,52 +26,63 @@
     <script>
         fetch("https://db.cm-ss13.com/api/Round").then((value) => value.json().then((json) => {
             const display_element = document.getElementById("server_info");
-
-            const data = json.data;
             const gamestates = ["Startup", "Pre-game", "Setting up", "Playing", "Finished"];
-            const gamestate = gamestates[data.gamestate] || "Unknown";
 
-            const totalSeconds = Math.floor(data.round_duration / 10);
-            const hours = Math.floor(totalSeconds / 3600);
-            const minutes = Math.floor((totalSeconds % 3600) / 60);
-            const seconds = totalSeconds % 60;
-            const duration = `${hours}h ${minutes}m ${seconds}s`;
+            const formatDuration = (round_duration) => {
+                const totalSeconds = Math.floor(round_duration / 10);
+                const hours = Math.floor(totalSeconds / 3600);
+                const minutes = Math.floor((totalSeconds % 3600) / 60);
+                const seconds = totalSeconds % 60;
+                return `${hours}h ${minutes}m ${seconds}s`;
+            };
 
-            display_element.innerHTML = `
-                <div class="card bg-dark text-white border border-secondary">
-                    <div class="card-header text-center border-bottom border-secondary">
-                        <h5 class="mb-0"><i class="fa fa-server me-2"></i>Server Status</h5>
-                    </div>
-                    <div class="card-body">
-                        <div class="row text-center">
-                            <div class="col">
-                                <div class="text-white-50 small">Mode</div>
-                                <div class="fw-bold">${data.mode}</div>
-                            </div>
-                            <div class="col">
-                                <div class="text-white-50 small">Round</div>
-                                <div class="fw-bold">${data.round_id}</div>
-                            </div>
-                            <div class="col">
-                                <div class="text-white-50 small">Players</div>
-                                <div class="fw-bold">${data.players}</div>
-                            </div>
-                            <div class="col">
-                                <div class="text-white-50 small">Map</div>
-                                <div class="fw-bold">${data.map_name}</div>
-                            </div>
-                            <div class="col">
-                                <div class="text-white-50 small">Duration</div>
-                                <div class="fw-bold">${duration}</div>
-                            </div>
-                            <div class="col">
-                                <div class="text-white-50 small">Status</div>
-                                <div class="fw-bold">${gamestate}</div>
+            const renderServerCard = (server) => {
+                if (server.status === "unavailable") {
+                    return;
+                }
+
+                const data = server.data;
+                const gamestate = gamestates[data.gamestate] || "Unknown";
+                const duration = formatDuration(data.round_duration);
+
+                return `
+                    <div class="card bg-dark text-white border border-secondary mb-3">
+                        <div class="card-header text-center border-bottom border-secondary">
+                            <h5 class="mb-0"><i class="fa fa-server me-2"></i>${server.name}</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="row text-center">
+                                <div class="col">
+                                    <div class="text-white-50 small">Mode</div>
+                                    <div class="fw-bold">${data.mode}</div>
+                                </div>
+                                <div class="col">
+                                    <div class="text-white-50 small">Round</div>
+                                    <div class="fw-bold">${data.round_id}</div>
+                                </div>
+                                <div class="col">
+                                    <div class="text-white-50 small">Players</div>
+                                    <div class="fw-bold">${data.players}</div>
+                                </div>
+                                <div class="col">
+                                    <div class="text-white-50 small">Map</div>
+                                    <div class="fw-bold">${data.map_name}</div>
+                                </div>
+                                <div class="col">
+                                    <div class="text-white-50 small">Duration</div>
+                                    <div class="fw-bold">${duration}</div>
+                                </div>
+                                <div class="col">
+                                    <div class="text-white-50 small">Status</div>
+                                    <div class="fw-bold">${gamestate}</div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            `;
+                `;
+            };
+
+            display_element.innerHTML = json.servers.map(renderServerCard).join('');
         }))
     </script>
 </head>
