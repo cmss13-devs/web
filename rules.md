@@ -521,7 +521,6 @@ Mutinies must be Adminhelped by a chosen leader stating the reasoning and the pl
     - Roles bound to follow Marine Law through Mandatory Obedience are unable to participate in a mutiny. They ARE allowed to stay neutral if they agree with the mutineers though.
 - If the mutiny does not have a valid reason, it can't happen.
     - Staff reserve the right to grant or deny mutinies, and to decide if the reason given is sufficient.
-- Regular mutinies cannot occur during hijack, and any ongoing mutiny must be ended upon hijack.
 - Only the Acting Commander can be mutinied against for their decisions, actions, or inactions. They must be given a chance to stand down peacefully.
     - If the mutiny is successful, the next person in line would take command.
 - During the mutiny attacking any uninvolved, medical or surrendered personnel is strictly forbidden, as is intentionally perma-killing anyone involved.
