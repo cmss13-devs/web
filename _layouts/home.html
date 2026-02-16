@@ -17,6 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/90136e7f9b.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
     <link href="{{ site.url }}/assets/stylesheet.css" rel="stylesheet">
@@ -64,7 +65,127 @@
             };
 
             display_element.innerHTML = json.servers.map(renderServerCard).join('');
-        }))
+        }));
+
+        fetch("https://forum.cm-ss13.com/c/general/announcements/20.json")
+            .then((response) => response.json())
+            .then((json) => {
+                const announcementsElement = document.getElementById("announcements");
+                const topics = json.topic_list.topics
+                    .filter((topic) => !topic.pinned && !topic.pinned_globally)
+                    .slice(0, 5);
+
+                const formatDate = (dateString) => {
+                    const date = new Date(dateString);
+                    return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                };
+
+                const renderAnnouncement = (topic) => `
+                    <a href="https://forum.cm-ss13.com/t/${topic.slug}/${topic.id}" class="text-decoration-none" target="_blank">
+                        <div class="card bg-dark text-white border border-secondary h-100 announcement-card">
+                            <div class="card-body">
+                                <h6 class="card-title mb-2">${topic.title}</h6>
+                                <p class="card-text small mb-2">${topic.excerpt || ''}</p>
+                                <small class="text-secondary">${formatDate(topic.created_at)}</small>
+                            </div>
+                        </div>
+                    </a>
+                `;
+
+                announcementsElement.innerHTML = topics.map(renderAnnouncement).join('');
+            });
+
+        // Changelog
+        const changeTypes = {
+            bugfix: { label: 'Fix', icon: 'bug', color: 'green' },
+            fix: { label: 'Fix', icon: 'bug', color: 'green' },
+            wip: { label: 'WIP', icon: 'hammer', color: 'orange' },
+            qol: { label: 'QOL', icon: 'hand-holding-heart', color: 'green' },
+            soundadd: { label: 'Sound', icon: 'volume-high', color: 'green' },
+            sounddel: { label: 'Sound', icon: 'volume-xmark', color: 'red' },
+            soundtweak: { label: 'Sound', icon: 'wrench', color: 'green' },
+            add: { label: 'Addition', icon: 'circle-check', color: 'green' },
+            expansion: { label: 'Addition', icon: 'circle-check', color: 'green' },
+            rscadd: { label: 'Addition', icon: 'circle-check', color: 'green' },
+            rscdel: { label: 'Removal', icon: 'circle-xmark', color: 'red' },
+            del: { label: 'Removal', icon: 'circle-xmark', color: 'red' },
+            imageadd: { label: 'Sprite', icon: 'image', color: 'green' },
+            imagedel: { label: 'Sprite', icon: 'image', color: 'red' },
+            imagetweak: { label: 'Sprite', icon: 'wrench', color: 'green' },
+            spellcheck: { label: 'Spellcheck', icon: 'spell-check', color: 'green' },
+            experiment: { label: 'Experiment', icon: 'radiation', color: 'yellow' },
+            balance: { label: 'Balance', icon: 'scale-balanced', color: 'yellow' },
+            code: { label: 'Code', icon: 'code', color: 'green' },
+            code_imp: { label: 'Code', icon: 'code', color: 'green' },
+            refactor: { label: 'Refactor', icon: 'screwdriver-wrench', color: 'green' },
+            config: { label: 'Config', icon: 'gears', color: 'purple' },
+            admin: { label: 'Admin', icon: 'user-shield', color: 'purple' },
+            server: { label: 'Server', icon: 'server', color: 'purple' },
+            tgs: { label: 'Server', icon: 'toolbox', color: 'purple' },
+            tweak: { label: 'Tweak', icon: 'wrench', color: 'green' },
+            ui: { label: 'UI', icon: 'desktop', color: 'blue' },
+            mapadd: { label: 'Map', icon: 'earth-africa', color: 'yellow' },
+            maptweak: { label: 'Map', icon: 'map-location-dot', color: 'green' },
+            unknown: { label: 'Unknown', icon: 'circle-info', color: 'gray' }
+        };
+
+        const now = new Date();
+        const year = now.getFullYear();
+        const month = String(now.getMonth() + 1).padStart(2, '0');
+        const changelogUrl = `https://raw.githubusercontent.com/cmss13-devs/cmss13/master/html/changelogs/archive/${year}-${month}.yml`;
+
+        fetch(changelogUrl)
+            .then((response) => response.text())
+            .then((yamlText) => {
+                const changelogElement = document.getElementById("changelog");
+                const data = jsyaml.load(yamlText);
+
+                const dates = Object.keys(data).sort((a, b) => new Date(b) - new Date(a));
+
+                const renderChange = (change) => {
+                    const type = Object.keys(change)[0];
+                    const description = change[type];
+                    const typeInfo = changeTypes[type] || changeTypes.unknown;
+                    return `
+                        <div class="changelog-entry">
+                            <span class="changelog-badge changelog-${typeInfo.color}">
+                                <i class="fa fa-${typeInfo.icon}"></i> ${typeInfo.label}
+                            </span>
+                            <span class="changelog-text">${description}</span>
+                        </div>
+                    `;
+                };
+
+                const renderDay = (date) => {
+                    const authors = data[date];
+                    const formattedDate = new Date(date).toLocaleDateString('en-US', {
+                        year: 'numeric', month: 'short', day: 'numeric'
+                    });
+
+                    let changesHtml = '';
+                    for (const author in authors) {
+                        const changes = authors[author];
+                        changesHtml += `
+                            <div class="changelog-author">
+                                <strong>${author}</strong>
+                                ${changes.map(renderChange).join('')}
+                            </div>
+                        `;
+                    }
+
+                    return `
+                        <div class="changelog-day">
+                            <h5 class="changelog-date">${formattedDate}</h5>
+                            ${changesHtml}
+                        </div>
+                    `;
+                };
+
+                changelogElement.innerHTML = dates.map(renderDay).join('');
+            })
+            .catch(() => {
+                document.getElementById("changelog").innerHTML = '<p class="text-secondary">Unable to load changelog.</p>';
+            });
     </script>
 </head>
 
@@ -76,29 +197,29 @@
     <!-- CRT Effect Overlay -->
     <div class="crt"></div>
 
-    <div class="container-fluid">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark border-bottom background-black">
-            <div class="container-fluid">
-                <a class="navbar-brand d-lg-none" href="{{ site.url }}">
-                    <img src="{{ site.url }}/assets/logo.png" alt="Logo" height="40px" />
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <div class="navbar-collapse collapse" id="navbarNav">
-                    <div class="navbar-nav w-100 justify-content-evenly">
-                        <a class="nav-item nav-link" href="{{ site.play_link }}"><i class="fa fa-gamepad"></i>Play Now</a>
-                        <a class="nav-item nav-link" href="{{ site.rules_link }}"><i class="fa fa-bars"></i>Rules</a>
-                        <a class="nav-item nav-link" href="{{ site.status_link }}"><i class="fa fa-server"></i>Status</a>
-                        <a class="nav-item nav-link" href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a>
-                        <a class="nav-item nav-link" href="{{ site.forums_link }}"><i class="fa-brands fa-discourse"></i>Forums</a>
-                        <a class="nav-item nav-link" href="{{ site.discord_link }}"><i class="fa-brands fa-discord"></i>Discord</a>
-                        <a class="nav-item nav-link" href="{{ site.github_link }}"><i class="fa-brands fa-github"></i>GitHub</a>
-                    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom background-black">
+        <div class="container-fluid">
+            <a class="navbar-brand d-lg-none" href="{{ site.url }}">
+                <img src="{{ site.url }}/assets/logo.png" alt="Logo" height="40px" />
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars"></i>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarNav">
+                <div class="navbar-nav w-100 justify-content-evenly">
+                    <a class="nav-item nav-link" href="{{ site.play_link }}"><i class="fa fa-gamepad"></i>Play Now</a>
+                    <a class="nav-item nav-link" href="{{ site.rules_link }}"><i class="fa fa-bars"></i>Rules</a>
+                    <a class="nav-item nav-link" href="{{ site.status_link }}"><i class="fa fa-server"></i>Status</a>
+                    <a class="nav-item nav-link" href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a>
+                    <a class="nav-item nav-link" href="{{ site.forums_link }}"><i class="fa-brands fa-discourse"></i>Forums</a>
+                    <a class="nav-item nav-link" href="{{ site.discord_link }}"><i class="fa-brands fa-discord"></i>Discord</a>
+                    <a class="nav-item nav-link" href="{{ site.github_link }}"><i class="fa-brands fa-github"></i>GitHub</a>
                 </div>
             </div>
-        </nav>
+        </div>
+    </nav>
 
+    <div class="container-fluid">
         <div class="container-fluid min-vh-100 d-flex flex-column justify-content-center align-items-center">
             <img src="{{ site.url }}/assets/logo.png" alt="Logo" width="250px" height="90px" class="d-none d-lg-block" />
 
@@ -122,7 +243,13 @@
                         </div>
                     </div>
                     <div id="server_info" class="mt-3 d-flex flex-wrap justify-content-center gap-3"></div>
-                </div>
+
+                    <div class="mt-4 mb-5 text-center">
+                        <h2><i class="fa fa-bullhorn me-2"></i>Announcements</h2>
+                        <div id="announcements" class="d-flex flex-wrap justify-content-center gap-3"></div>
+                    </div>
+
+                    </div>
                 <div class="row">
                     <div class="col-12 col-md-4 text-center">
                         <h2><a href="{{ site.wiki_link }}"><i class="fa fa-book"></i>Wiki</a></h2>
@@ -147,11 +274,18 @@
                                 href="{{ site.wiki_link }}/Guide_to_Git">Guide to Contributing</a>.</p>
                     </div>
                 </div>
+
+                <div class="row mt-4 mb-4">
+                    <div class="col text-center">
+                        <h2><i class="fa fa-code-commit me-2"></i>Changelog</h2>
+                        <div id="changelog" class="changelog-container text-start mx-auto"></div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <footer class="text-center fixed-bottom">
+    <footer class="text-center">
         <div class="text-center p-4">
             Source available on <a href="{{ site.source_link }}"><i class="fa-brands fa-github"></i>GitHub</a> |
             <a href="{{ site.url }}/tos">Terms of Service</a>
