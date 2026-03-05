@@ -270,7 +270,7 @@ Do not abuse bugs or unintended features to gain an unfair advantage for yoursel
 ## General Exploits
 
 Not Exploits:
-- Setting up Keybinds or Macros using either the in game Keybind Preferences, or the BYOND Macros menu.
+- Setting up Keybinds or Macros using either the in game Keybind Preferences.
 - Using external software to make a mouse button - like M4 - register as a keyboard key entry, allowing it to be bound in game using the keybind menu.
 
 Examples of Exploits:
