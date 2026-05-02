@@ -98,6 +98,7 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
     - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
     - Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
     - The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
+    - Any role deploying with the expectation to remain in a secure area, should not be deploying on the first combat drop.
 
 ### Ship Modifications 
 
