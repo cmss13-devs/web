@@ -428,6 +428,12 @@ A name comprised of extremely common names (I.E John Williams) can be excused fo
 Some soldiers in the USCM have been born as part of the Artificial Womb Soldier Program. This means that they do not have any biological parents who have passed along their last name to them. Instead these soldiers have been assigned a regular first name, the A.W. initials as a middle name and a weapon as their surname.
 
 From a rules perspective there is the following limitation: As an A.W. Soldier you MUST have a weapon as your last name, and this weapon needs to have been used/developed before or during the Vietnam war. (1975 or earlier)
+- These last names should only be one word.
+- Names can not include numbers and shouldn't include something like 'Mark'('Mk') or 'Model' I.E. Mk 17, Model 1987, AK-47 are not acceptable.
+- Biological Weapons count as weapon names.
+- Vehicles used in direct combat I.E. (Tanks, IFVs, Fighters, or Bombers) count as weapon names. 
+    - Ship names excluded. 
+    - Logistics vehicles excluded.
 
 Acceptable names:
 
