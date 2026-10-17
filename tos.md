@@ -17,6 +17,7 @@ Our Services include, but are not limited to:
 - Our official Discord server ("Discord").
 - Our official Twitch channel's chat ("Twitch").
 - Our connected Application Programming Interface (API) and any other backend services that connect, track, or link user accounts across these platforms.
+- Our affiliated servers and their respective services, including CMU14 and CMPVE13.
 
 By accessing or using any of our Services, you signify your understanding of and agreement to the terms of this Privacy Policy.
 
