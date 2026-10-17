@@ -84,6 +84,7 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 - Marriages are forbidden, no two people employed by the USCM on the same ship may be married. 
 - The USCM has knowledge of most threats, including all human forces (UPP, CLF, PMC, etc) and general knowledge of the Xenomorph hive structure. 
 - The USCM does not know there is a Xenomorph threat on the planet of operation unless that information is given in a custom event.
+- Players shouldn't consume things they know will be lethal, eg. DDI.
 
 ### Deployment 
 
