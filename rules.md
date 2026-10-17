@@ -93,6 +93,8 @@ The CM-SS13 Universe diverges from the events of real life in 1975. References t
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
     - Command staff (SO/XO/CO) should be deploying for command purposes and not to be a "special" rifleman.
     - Command staff should not typically be deploying without permission, excluding nuclear protocol.
+    - The CIC should still be manned during nuclear protocol. The (a)XO should not be deploying with an empty CIC under any circumstance.
+    - If you are a shipside role who otherwise cannot usually deploy, during nuclear protocol, you should be defending the nuke and it's immediate area instead of frontlining.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
 - Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
     - Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
